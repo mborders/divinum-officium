@@ -259,7 +259,7 @@ sub clean_setupsave {
 sub setfont {
   my $istr = shift;
   my $text = shift;
-  return $text unless $istr;
+  return $text;# unless $istr;
 
   my $size = ($istr =~ /^\.*?([0-9\-\+]+)/i) ? $1 : 0;
   my $color = ($istr =~ /([a-z]+)\s*$/i) ? $1 : '';
@@ -467,7 +467,7 @@ sub setcell {
     }
     print "<TD VALIGN=TOP WIDTH=$width%"
       . ($lang1 ne $lang || $text =~ /{omittitur}/ ? "" : " ID=$hora$searchind") . ">";
-    topnext_cell(\$text, $lang) unless $popup;
+    # topnext_cell(\$text, $lang) unless $popup;
   }
 
   process_inline_alleluias(\$text, $dayname[0] =~ /Pasc/) unless $missa;    # missa use own solution
@@ -733,7 +733,7 @@ sub print_content {
   my ($ind1, $ind2);
 
   table_start();
-  ante_post('Ante') if $antepost;
+  # ante_post('Ante') if $antepost;
 
   while ($ind1 < @$script1 || $ind2 < @$script2) {
     $column = 1;
@@ -752,7 +752,7 @@ sub print_content {
       $ind2 = $ind1;
     }
   }
-  ante_post('Post') if $antepost;
+  # ante_post('Post') if $antepost;
   table_end();
 }
 

@@ -141,7 +141,7 @@ if ($command =~ /setup(.*)/is) {
   $pmode = 'missa';
   $command =~ s/(pray|change|setup)//ig;
   $head = $title;
-  headline($head);
+  # headline($head);
   load_languages_data($lang1, $lang2, $version, $missa);
 
   #eval($setup{'parameters'});
@@ -174,36 +174,36 @@ $version =~ s/ 1954//;
 $version =~ s/Rubrics 1960 2020 USA/1960 Newcalendar/;
 $version =~ s/Ordo Praedicatorum/Dominican/;
 
-if ($pmode =~ /(main|missa)/i) {
+# if ($pmode =~ /(main|missa)/i) {
 
-  #common widgets for main and hora
-  $crubrics = ($rubrics) ? 'CHECKED' : '';
-  $csolemn = ($solemn) ? 'CHECKED' : '';
-  @chv = splice(@chv, @chv);
-  $ctext = ($pmode =~ /(main)/i) ? 'Sancta Missa' : 'Sancta Missa Persoluta';
-  print << "PrintTag";
-<P ALIGN=CENTER><FONT SIZE=+1><I>
-<LABEL FOR=rubrics>Rubrics : </LABEL><INPUT ID=rubrics TYPE=CHECKBOX NAME='rubrics' $crubrics Value=1  onclick="parchange()">
-&nbsp;&nbsp;&nbsp;
-<A HREF=# onclick="hset('$ctext');"><FONT COLOR=blue>$ctext</FONT></A>
-&nbsp;&nbsp;&nbsp;
-<LABEL FOR=solemn>Solemn : </LABEL><INPUT ID=solemn TYPE=CHECKBOX NAME='solemn' $csolemn Value=1 onclick="parchange()">
-</I></P>
-<P ALIGN=CENTER>
-PrintTag
+#   #common widgets for main and hora
+#   $crubrics = ($rubrics) ? 'CHECKED' : '';
+#   $csolemn = ($solemn) ? 'CHECKED' : '';
+#   @chv = splice(@chv, @chv);
+#   $ctext = ($pmode =~ /(main)/i) ? 'Sancta Missa' : 'Sancta Missa Persoluta';
+#   print << "PrintTag";
+# <P ALIGN=CENTER><FONT SIZE=+1><I>
+# <LABEL FOR=rubrics>Rubrics : </LABEL><INPUT ID=rubrics TYPE=CHECKBOX NAME='rubrics' $crubrics Value=1  onclick="parchange()">
+# &nbsp;&nbsp;&nbsp;
+# <A HREF=# onclick="hset('$ctext');"><FONT COLOR=blue>$ctext</FONT></A>
+# &nbsp;&nbsp;&nbsp;
+# <LABEL FOR=solemn>Solemn : </LABEL><INPUT ID=solemn TYPE=CHECKBOX NAME='solemn' $csolemn Value=1 onclick="parchange()">
+# </I></P>
+# <P ALIGN=CENTER>
+# PrintTag
 
-  #$testmode = 'Regular' unless $testmode;
-  #if ($savesetup > 1) {
-  #  print option_selector("testmode", "parchange();", $testmode, qw(Regular Seasonal Season Saint Common));
-  #} else {
-  #  print option_selector("testmode", "parchange();", $testmode, qw(Regular Seasonal));
-  #}
-  print(selectables('general' . ($Ck ? 'c' : '')));
-  print "</P>\n";
-  my $propname = ($Propers) ? 'Full' : 'Propers';
-  print qq(<P ALIGN=CENTER><FONT SIZE=+1>\n<A HREF=# onclick="hset('Propers')">$propname</A>\n</FONT></P>\n);
-  print "<P ALIGN=CENTER><FONT SIZE=+1>\n" . bottom_links_menu() . "</FONT>\n</P>\n";
-}
+#   #$testmode = 'Regular' unless $testmode;
+#   #if ($savesetup > 1) {
+#   #  print option_selector("testmode", "parchange();", $testmode, qw(Regular Seasonal Season Saint Common));
+#   #} else {
+#   #  print option_selector("testmode", "parchange();", $testmode, qw(Regular Seasonal));
+#   #}
+#   print(selectables('general' . ($Ck ? 'c' : '')));
+#   print "</P>\n";
+#   my $propname = ($Propers) ? 'Full' : 'Propers';
+#   print qq(<P ALIGN=CENTER><FONT SIZE=+1>\n<A HREF=# onclick="hset('Propers')">$propname</A>\n</FONT></P>\n);
+#   print "<P ALIGN=CENTER><FONT SIZE=+1>\n" . bottom_links_menu() . "</FONT>\n</P>\n";
+# }
 
 #common end for programs
 if ($error) { print "<P ALIGN=CENTER><FONT COLOR=red>$error</FONT></P>\n"; }

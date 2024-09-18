@@ -80,7 +80,7 @@ ALL_RUBRICS_NAME=("_Monastic" "_1570" "_1910" "_DA" "_1955" "" "NC")
 YEAR_RE='^[0-9]+$'
 
 #parse parameters
-while getopts "hy:t:pvmr:c:o:f" OPTION
+while getopts "hy:t:pvmr:c:o:l:f" OPTION
 do
      case $OPTION in
          h)

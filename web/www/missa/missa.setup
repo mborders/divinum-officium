@@ -12,7 +12,7 @@ $smallfont='1 red';;
 $titlefont='+1 red';;
 $screenheight='1024';;
 $textwidth='100';;
-$nofancychars='0';;
+$nofancychars='1';;
 
 [parameterscheck]
 ttobcccccccnnb
