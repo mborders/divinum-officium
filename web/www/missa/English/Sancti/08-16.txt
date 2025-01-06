@@ -1,3 +1,6 @@
+[Rank]
+S. Joachim Confessoris, Patris B. Mariæ Virginis;;Duplex II class;;5.1;;ex C5
+
 [Introitus]
 !Ps 111:9
 v. Lavishly he gives to the poor, his generosity shall endure forever; his horn shall be exalted in glory.
@@ -32,4 +35,3 @@ $Per Dominum
 [Postcommunio]
 We beseech You, almighty God, that by this sacrament which we have received, and by the pleading merits of holy Joachim, father of the Mother of Your beloved Son, our Lord Jesus Christ, we may be found worthy to share Your grace in the life, and eternal glory in the life to come.
 $Per eundem
-

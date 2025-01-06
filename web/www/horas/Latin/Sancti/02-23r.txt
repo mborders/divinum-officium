@@ -1,12 +1,14 @@
 [Rank]
 S. Petri Damiani Episcopi Confessoris et Ecclesiæ Doctoris;;Duplex;;3;;vide C4a
-
-[Name]
-Petre
+(sed rubrica 1930 aut rubrica 1963)
+S. Petri Damiani Episcopi, Confessoris et Ecclesiæ Doctoris O. N.;;Duplex;;3;;vide C4a
 
 [Rule]
 vide C4a;
 9 Lectiones
+
+[Name]
+Petre
 
 [Oratio]
 Concéde nos, quǽsumus, omnípotens Deus: beáti Petri Confessóris tui atque Pontíficis mónita et exémpla sectári; ut per terréstrium rerum contémptum ætérna gáudia consequámur.

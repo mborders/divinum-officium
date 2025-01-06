@@ -1,10 +1,6 @@
 [Rank]
 S. Luciae Virginis et Martyris;;Duplex;;3;;ex C6b
 
-[Rule]
-vide C6b;
-Gloria
-
 [Introitus]
 !Ps 44:8.
 v. Hai amato la giustizia, e odiato le cose perverse, perciò il Signore, tuo Dio, ti ha unto tra le tue compagne con l'olio che dà gioia.
@@ -16,10 +12,6 @@ v. Hai amato la giustizia, e odiato le cose perverse, perciò il Signore, tuo Di
 [Oratio]
 Ascoltaci, o Dio, nostra salvezza: e mentre ci rallegriamo per la festa della tua santa vergine e martire Lucia, impariamo ad amarti con devozione filiale.
 $Per Dominum
-
-[Commemoratio Oratio]
-!Pro Octava Conceptionis Immaculatæ.
-@Sancti/12-08:Oratio
 
 [Lectio]
 Dalla seconda lettera di san Paolo apostolo ai Corinti.
@@ -46,10 +38,6 @@ Le vergini dietro di lei sono condotte al Re; le sue compagne sono condotte a Te
 Accetta, o Signore, l'offerta presentata in onore dei tuoi santi dal popolo che ti è consacrato: esso sa che per i loro meriti ha ottenuto il soccorso nella prova.
 $Per Dominum
 
-[Commemoratio Secreta]
-!Pro Octava Conceptionis Immaculatæ.
-@Sancti/12-08:Secreta
-
 [Communio]
 !Ps 118:161-162
 Senza ragione mi hanno perseguitato i potenti; ma il mio cuore ha temuto solo la tua Legge. Mi rallegro nei tuoi precetti, come chi ha trovato ricco bottino.
@@ -57,8 +45,3 @@ Senza ragione mi hanno perseguitato i potenti; ma il mio cuore ha temuto solo la
 [Postcommunio]
 Sostieni sempre, o Signore, per l'intercessione della santa di cui celebriamo la festa. questa tua famiglia che hai nutrito con il tuo sacrificio.
 $Per Dominum
-
-[Commemoratio Postcommunio]
-!Pro Octava Conceptionis Immaculatæ.
-@Sancti/12-08:Postcommunio
-

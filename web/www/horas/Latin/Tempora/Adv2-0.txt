@@ -15,10 +15,7 @@ Antiphonas horas
 @:Ant Laudes
 
 [Ant Vespera](rubrica tridentina)
-@Psalterium/Psalmi major:Daya6 Vespera
-
-[Ant Vespera 3]
-@:Ant Laudes
+@Psalterium/Psalmi/Psalmi major:Daya6 Vespera
 
 [Ant 1]
 Veni, Dómine, * visitáre nos in pace, ut lætémur coram te corde perfécto.
@@ -80,7 +77,7 @@ V. Et dominábitur a mari usque ad mare, et a flúmine usque ad términos orbis 
 R. Corónam regni habens in cápite suo.
 
 [Lectio5]
-Nos autem virgam de radíce Jesse sanctam Mariam Vírginem intélligamus, quæ nullum hábuit sibi frúticem cohæréntem, de qua et supra légimus: Ecce virgo concípiet et pariet fílium. Et flórem, Dóminum Salvatórem, qui dicit in Cántico canticórum: Ego flos campi, et lílium convallium.
+Nos autem virgam de radíce Jesse sanctam Mariam Vírginem intelligámus, quæ nullum hábuit sibi frúticem cohæréntem, de qua et supra légimus: Ecce virgo concípiet et pariet fílium. Et flórem, Dóminum Salvatórem, qui dicit in Cántico canticórum: Ego flos campi, et lílium convallium.
 
 [Responsory5]
 R. Sicut mater consolátur fílios suos, ita consolábor vos, dicit Dóminus: et de Jerúsalem civitáte quam elégi, véniet vobis auxílium: 
@@ -158,6 +155,9 @@ $Deo gratias
 !Rom 15:13
 v. Deus autem spei répleat vos omni gáudio et pace in credéndo: ut abundétis in spe, et in virtúte Spíritus Sancti.
 $Deo gratias
+
+[Ant Vespera 3]
+@:Ant Laudes
 
 [Ant 3]
 Tu es, qui ventúrus es, * an álium exspectámus? Dícite Joánni quæ vidístis: Ad lumen rédeunt cǽci, mórtui resúrgunt, páuperes evangelizántur, allelúja.

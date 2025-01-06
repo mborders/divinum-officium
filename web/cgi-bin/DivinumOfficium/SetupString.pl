@@ -8,19 +8,23 @@ use DivinumOfficium::FileIO qw(do_read);
 use DivinumOfficium::Date qw(monthday);
 
 # Read only global variables
-our $version;
+our $version, $datafolder;
 
 # Global Variables to be filled here
 our %setupstring_caches_by_version;
 
 # Pseudo constants to be used in vero() sub
+# Commune Summorum Pont. introduced in 1942 only (=> not for Monastic 1930)
 my %subjects = (
   rubricis => sub {$version},
   rubrica => sub {$version},
   tempore => \&get_tempus_id,
   missa => sub { our $missanumber },
-  communi => sub { {summpont => ($version =~ /1960/ || $version =~ /1955/ || $version =~ /Divino/)} },
+  communi => sub { our $version },
   'die' => \&get_dayname_for_condition,
+  feria => sub { our $dayofweek + 1 },
+  commune => sub {$commune},
+  officio => sub { $dayname[1]; },
 );
 my %predicates = (
   tridentina => sub { shift =~ /Trident/ },
@@ -34,7 +38,8 @@ my %predicates = (
   tertia => sub { shift == 3 },
   longior => sub { shift == 1 },
   brevior => sub { shift == 2 },
-  'summorum pontificum' => sub { ${shift()}{summpont} },
+  'summorum pontificum' => sub { shift =~ /^Divino|1955|1960/ },
+  feriali => sub { shift =~ /feria|vigilia/i; },
 );
 
 # Constants specifying which @-directives to resolve when calling &setupstring.
@@ -159,8 +164,12 @@ sub get_tempus_id {
       : 'Nativitatis'
     : /^Epi/ ? ($month == 1 && $day <= 13)
       ? 'Epiphaniæ'
-      : 'post Epiphaniam'
-    : /^Quadp(\d)/ && ($1 < 3 || $dayofweek < 3) ? 'Septuagesimæ'
+      : ($month == 1 || ($month == 2 && ($day == 1 || $day == 2 && !$vesp_or_comp))) ? 'post Epiphaniam post partum'
+      : ($month == 2) ? 'post Epiphaniam'
+      : 'post Pentecosten'
+    : /^Quadp(\d)/ && ($1 < 3 || $dayofweek < 3) ? ($month == 1 || $day == 1 || ($day == 2 && !$vesp_or_comp))
+      ? 'Septuagesimæ post partum'
+      : 'Septuagesimæ'
     : /^Quad(\d)/ && $1 < 5 ? 'Quadragesimæ'
     : /^Quad/ ? 'Passionis'
     : /^Pasc0/ ? 'Octava Paschæ'
@@ -185,13 +194,19 @@ sub get_tempus_id {
 
 # Returns the name of the day for use as a subject in conditionals.
 sub get_dayname_for_condition {
-  our ($day, $month, $day_of_week, $winner, $version);
+  our ($day, $month, $year, $winner, $version);
   our $hora;
   my $vesp_or_comp = ($hora =~ /Vespera/i) || ($hora =~ /Completorium/i);
   return 'Epiphaniæ' if ($month == 1 && ($day == 6 || ($day == 5 && $vesp_or_comp)));
   return 'in Cœna Domini' if $winner =~ /Quad6-4/;
   return 'in Parasceve' if $winner =~ /Quad6-5/;
   return 'Sabbato Sancto' if $winner =~ /Quad6-6/;
+  return 'Omnium Defunctorum'
+    if (
+      $month == 11
+      && ($day == 2 || ($day == 3 && $dayofweek == 1) || ($day == 1 && day_of_week(11, 1, $year) != 6 && $vesp_or_comp))
+    );
+  return 'Nicolai' if $month == 12 && $day == 6;
   return '';
 }
 
@@ -245,6 +260,7 @@ AUTEM: for (split /\baut\b/, $condition) {
 # their contents. $basedir and $lang are used for inclusions only.
 sub setupstring_parse_file($$$) {
   my ($fullpath, $basedir, $lang) = @_;
+
   my @filelines = do_read($fullpath) or return '';
 
   # Regex for matching section headers.
@@ -435,9 +451,10 @@ sub get_loadtime_inclusion($$$$$$$) {
   my $text;
   our ($version, $missa, @dayname);
 
-  # Adjust offices of martyrs in Paschaltide to use the special common.
-  if ($dayname[0] =~ /Pasc/i && !$missa && $callerfname !~ /C[23]/) {
-    $ftitle =~ s/(C[23])(?!p)/$1p/g;
+  # Adjust offices of apostles & martyrs in Paschaltide to use the special common.
+  # Github #525: Safeguard against infinite loops: exclude Hymnus, Oratio, and Lectio which are partially copied from "extra Tempus Paschalis"
+  if ($dayname[0] =~ /Pasc/i && !$missa && $callerfname !~ /C[123]/ && $section !~ /Hymnus|Oratio|Lectio/i) {
+    $ftitle =~ s/(C[123])(?![p\d])/$1p/g;
   }
 
   # Load the file to resolve the reference; if none specified, it's a
@@ -476,6 +493,10 @@ sub setupstring($$%) {
   if ($lang =~ /\.\.\/missa\/(.+)/) {    # For Monastic look-up of Evangelium, prevent __preamble from
     $lang = $1;                          # horas file to contaminate missa structure which could lead
     $basedir =~ s/horas/missa/g;         # to infinite cycles github #525
+  }
+
+  if ($fname =~ /Comment.txt$/) {
+    $basedir =~ s/missa/horas/g;         # missa uses comments from horas dir
   }
 
   checklatinfile(\$fname);    # modifies $fname if fallback to Roman folder from Monastic or OP is used in Latin
@@ -645,7 +666,12 @@ sub officestring($$;$) {
     || $fname =~ m{^Tempora[^/]*/Pent0[1-5]})
   {
     %s = %{setupstring($lang, $fname)};
-    if ($version =~ /196/ && $s{Rank} =~ /Feria.*?(III|IV) Adv/i && $day > 16) { $s{Rank} =~ s/;;2.1/;;4.9/; }
+
+    if ($version =~ /196/ && $s{Rank} =~ /Feria.*?(III|IV) Adv/i && $day > 16) {
+      $s{Rank} =~ s/;;2\.1/;;4.9/;
+    } elsif ($version =~ /cist/i && $s{Rank} =~ /Feria.*?(III|IV) Adv/i && $day > 16) {
+      $s{Rank} =~ s/;;1\.15/;;2.1/;
+    }
     return \%s;
   }
 
@@ -661,9 +687,13 @@ sub officestring($$;$) {
   my $m = 0;
   my $w = 0;
   if ($monthday =~ /([0-9][0-9])([0-9])\-[0-9]/) { $m = $1; $w = $2; }
-  my @months = ('Augusti', 'Septembris', 'Octobris', 'Novembris', 'Decembris');
   my @weeks = ('I.', 'II.', 'III.', 'IV.', 'V.');
-  if ($m) { $m = $months[$m - 8]; }
+
+  if ($m) {
+    my %m = %{setupstring($lang, 'Psalterium/Comment.txt')};
+    my @months = split("\n", $m{Menses});
+    $m = $months[$m - 8];
+  }
   if ($w) { $w = $weeks[$w - 1]; }
   $rank[0] .= " $w $m";
   $s{Rank} = join(';;', @rank);

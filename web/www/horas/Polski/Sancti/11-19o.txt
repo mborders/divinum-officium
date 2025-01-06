@@ -3,6 +3,7 @@
 
 [Rule]
 vide C4;
+OPapaM=Poncjana;
 
 [Oratio]
 @Commune/C2::s/N\./Poncjana/

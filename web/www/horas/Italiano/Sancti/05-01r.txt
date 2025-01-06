@@ -1,25 +1,12 @@
 [Rank]
 S. Joseph Opificis;;Duplex I classis;;6;;
 
-[RankNewcal]
-S. Joseph Opificis;;Duplex optional classis;;2;;
-
-[Rule]
-proper
-Psalmi Dominica
-Antiphonas horas
-9 lectiones;
-Psalm5 Vespera=116
-
 [Ant Vespera]
 Dio, creatore del mondo, * pose l'uomo a lavorare e a custodire la terra, alleluia.
 Cristo, Figlio di Dio, * si degnò di lavorare con le sue mani, alleluia.
 S. Giuseppe esercitando fedelmente l'arte del falegname, * rifulge come mirabile esempio di lavoratore, alleluia.
 Ecco il servo fedele * e prudente che il Signore stabili sopra la sua famiglia, alleluia.
 O Giuseppe, o santo artigiano, * custodisci il nostro lavoro, alleluia.
-
-[Hymnus Vespera]
-@Sancti/03-19:Hymnus Vespera
 
 [Versum 1]
 V. Oggi è la solennità di San Giuseppe, alleluia.
@@ -86,7 +73,7 @@ Dal libro della Genesi.
 31 Dio vide che tutto quello che aveva fatto era molto buono. Venne quindi sera, e poi mattino: il sesto giorno. 
 1 Così furono completi i cieli e la terra e ogni loro ornamento. 
 2 E Dio il settimo giorno finì l'opera che aveva fatta; e il settimo giorno si riposò da tutto il lavoro che aveva compiuto. 
-3 E benedisse il settimo giorno e lo santificò perché in esso si riposò da tutta l'opera che aveva fatto creando. 
+3 E benedisse il settimo giorno e lo santificò perché in esso si riposò da tutta l'opera che aveva fatto creando.
 
 [Responsory1]
 R.  Sei giorni lavorerai e compirai tutte le tue opere, ma il settimo giorno, il sabato, è consacrato al Signore Dio tuo: 
@@ -183,13 +170,6 @@ R. Non è il figlio del falegname? Alleluia.
 Anche il Signore era falegname: il profeta di lui dice: «Tu hai costruito l'aurora e il sole». Un modo di disprezzare, analogo a quello usato dai farisei contro Gesù, lo troviamo anche nel libro dei Re, quando di Saul, elevato alla dignità di re, si diceva: «Che cosa mai è capitato al figlio di Cis? Che anche Saul sia un profeta?». Una breve frase avvelenata da immisurabile alterigia. Il Signore risponde: «Veramente nessun profeta è accolto dai propri familiari». Con questa frase il Signore si proclama profeta. Lui ebbe l'illuminazione profetica non attraverso una rivelazione, ma attraverso la sua stessa divinità. Per «familiari» qui vuol indicare il paese della sua nascita e della sua fanciullezza. Or dunque è chiaro che non era stato accolto dai suoi compaesani, che erano attizzati contro di lui soltanto per invidia.
 &teDeum
 
-[Ant Laudes]
-Dio, creatore del mondo, * pose l'uomo a lavorare e a custodire la terra, alleluia.
-Cristo, Figlio di Dio, * si degnò di lavorare con le sue mani, alleluia.
-S. Giuseppe esercitando fedelmente l'arte del falegname, * rifulge come mirabile esempio di lavoratore, alleluia.
-Ecco il servo fedele * e prudente che il Signore stabili sopra la sua famiglia, alleluia.
-O Giuseppe, o santo artigiano, * custodisci il nostro lavoro, alleluia.
-
 [Capitulum Laudes]
 !Col 3:14-15
 v. Fratelli, abbiate la carità che è il vincolo della perfezione. Trionfi nei vostri cuori la pace di Cristo, e vivete in azione di grazie.
@@ -260,11 +240,6 @@ _
 V. Il Verbo di Dio, per mezzo del quale tutto è stato fatto, alleluia.
 R. Si è degnato di lavorare con le proprie mani, alleluia.
 
-[Capitulum Nona]
-!Col 3:24
-v. Tutto quello che fate, fatelo con buono spirito: per il Signore e non per gli uomini, consapevoli che dal Signore riceverete la mercede dell'eredità. Servite a Cristo Signore.
-$Deo gratias
-
 [Responsory Nona]
 R.br. Il Verbo di Dio, per mezzo del quale tutto è stato fatto, * alleluia, alleluia.
 R. Il Verbo di Dio, per mezzo del quale tutto è stato fatto, * alleluia, alleluia.
@@ -273,10 +248,6 @@ R. Alleluia, alleluia.
 &Gloria
 R. Il Verbo di Dio, per mezzo del quale tutto è stato fatto, * alleluia, alleluia.
 _
-V. Prega per noi, o San Giuseppe, alleluia.
-R. O protettore fedele del nostro lavoro, alleluia.
-
-[Versum 3]
 V. Prega per noi, o San Giuseppe, alleluia.
 R. O protettore fedele del nostro lavoro, alleluia.
 

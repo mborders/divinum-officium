@@ -6,11 +6,6 @@ IV Niedziela po Wielkiejnocy;;Semiduplex;;5;;
 Una Antiphona
 StJamesRule=Jas
 
-[Capitulum Laudes]
-!Jk 1:17
-v. Najmilsi: Wszelki datek dobry i wszelki dar doskonały z wysoka jest, zstępujący od Ojca światłości, u którego niemasz odmiany, ani zaćmienia przemiany.
-$Deo gratias
-
 [Ant 1]
 Idę do Tego, * który mię posłał, a żaden z was nie pyta mię: Dokąd idziesz? alleluja, alleluja.
 
@@ -21,7 +16,7 @@ $Per Dominum
 [Lectio1]
 Początek Listu św. Jakuba Apostoła
 !Jk 1:1-6
-1 Jakób, Boży i Pana naszego Jezusa Chrystusa sługa, dwiemanaście pokoleniom, ktore są w rozproszeniu, zdrowia.
+1 Jakób, Boży i Pana naszego Jezusa Chrystusa sługa, dwiemanaście pokoleniom, które są w rozproszeniu, zdrowia.
 2 Za wszelką radość poczytajcie, bracia moi, gdy w rozmaite pokusy wpadniecie.
 3 Wiedząc, iż doświadczenie wiary waszéj sprawuje cierpliwość. 
 4 A cierpliwość ma doskonały uczynek, abyście byli doskonali i zupełni, którym ni naczem nie schodzi.
@@ -107,6 +102,11 @@ V. Na instrumencie o dziesiąci stronach, na arfie, z śpiewaniem, na cytrze.
 R. I śpiewać, alleluja.
 &Gloria
 R. I śpiewać, alleluja.
+
+[Capitulum Laudes]
+!Jk 1:17
+v. Najmilsi: Wszelki datek dobry i wszelki dar doskonały z wysoka jest, zstępujący od Ojca światłości, u którego niemasz odmiany, ani zaćmienia przemiany.
+$Deo gratias
 
 [Capitulum Sexta]
 !Jk 1:19-20

@@ -4,7 +4,7 @@ S. Thomæ Cantuariensis Episcopi et Martyris;;Duplex;;3;;vide C2
 [Rank] (rubrica 1570 aut rubrica 1888 aut rubrica 1617)
 S. Thomæ Cantuariensis Episcopi et Martyris;;Semiduplex;;2.2;;vide C2
 
-[Rank](rubrica 1960)
+[Rank] (rubrica 1960)
 S. Thomæ Cantuariensis Episcopi et Martyris;;Simplex;;1.1;;vide C2
 
 [Rule]
@@ -19,7 +19,7 @@ Deus, pro cujus Ecclésia gloriósus Póntifex Thomas gládiis impiórum occúbu
 $Per Dominum
 
 [Lectio4]
-Thomas, Londíni in Anglia natus, Theobáldo succéssit Cantuariénsi epíscopo: et qui ántea in administrándo cancelláriæ múnere præcláre se gésserat, in episcopáli offício fortis et invíctus fuit. Cum enim Henrícus secúndus Angliæ rex, convocátis ad se epíscopis et procéribus regni, leges ferret utilitáti ac dignitáti ecclesiásticæ repugnántes, ádeo constánter óbstitit régiæ cupiditáti, ut neque pollicitatiónibus, neque terróribus de senténtia decédens, próxime conjíciendus in cárcerem clam recésserit. Inde propínqui ejus omnis ætátis ejécti, amíci, fautóres omnes, iis, quibus per ætátem licéret, jurejurándo adstríctis, univérsos Thomam aditúros, si fortásse miserábili suórum calamitátis aspéctu moverétur, qui a sancto propósito privátis incómmodis deterréri mínime potuísset. Non respéxit carnem aut sánguinem, neque ullus in eo humanitátis sensus offícii constántiam labefactávit.
+Thomas, Londíni in Anglia natus, Theobáldo succéssit Cantuariénsi epíscopo: et qui ántea in administrándo cancelláriæ múnere præcláre se gésserat, in episcopáli offício fortis et invíctus fuit. Cum enim Henrícus secúndus Angliæ rex, convocátis ad se epíscopis et procéribus regni, leges ferret utilitáti ac dignitáti ecclesiásticæ repugnántes, ádeo constánter óbstitit régiæ cupiditáti, ut neque pollicitatiónibus, neque terróribus de senténtia decédens, próxime conjiciéndus in cárcerem clam recésserit. Inde propínqui ejus omnis ætátis ejécti, amíci, fautóres omnes, iis, quibus per ætátem licéret, jurejurándo adstríctis, univérsos Thomam aditúros, si fortásse miserábili suórum calamitátis aspéctu moverétur, qui a sancto propósito privátis incómmodis deterréri mínime potuísset. Non respéxit carnem aut sánguinem, neque ullus in eo humanitátis sensus offícii constántiam labefactávit.
 
 [Lectio5]
 Cóntulit ígitur se ad Alexándrum tértium Pontíficem, a quo benígne accéptus est: et inde proféctus, monáchis Pontiniacénsis monastérii, Cisterciénsis órdinis, ab eódem commendátus. Quod ut cognóvit Henrícus, missis ad convéntum fratrum Cisterciénsium minácibus lítteris, Thomam e Pontiníaco monastério exturbáre conátur. Quare vir sanctus, véritus ne sua causa mali áliquid Cisterciénsis família paterétur, sponte discéssit, et Ludovícum Gálliæ regem ejus invitátu convénit; ubi támdiu fuit, quoad, Pontífice máximo et ipso rege agéntibus, ab exsílio, summa totíus regnis gratulatióne revocátur. Quid dum boni pastóris offícium secúrus exséquitur, ecce calumniatóres ad regem déferunt, eum multa contra regnum et públicam quiétem molíri, ut proptérea sǽpius conquererétur rex, se in suo regno cum uno sacerdóte pacem habére non posse.
@@ -45,4 +45,3 @@ Verum ab utróque se dissidére osténdit Christus: ab illis quidem, qui in ali�
 
 [Ant Vespera 3]
 @Sancti/12-25
-

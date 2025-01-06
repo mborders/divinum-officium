@@ -6,22 +6,11 @@ vide C4c;
 Gloria
 
 [Oratio]
-@Commune/C4c:Oratio:s/N\./Guliélmi/
+Deus, qui infirmitáti nostræ ad teréndam salútis viam in Sanctis tuis exémplum et præsídium collocásti: da nobis, ita beáti Guliélmi Abbátis mérita venerári; ut ejúsdem excipiámus suffrágia et vestígia prosequámur.
+$Per Dominum
 
 [Secreta]
 @Commune/C4c:Secreta:s/N\./Guliélmi/
 
 [Postcommunio]
 @Commune/C4c:Postcommunio:s/N\./Guliélmi/
-
-[Commemoratio Oratio]
-!Pro Octava S. Joannis Baptistæ
-@Sancti/06-25o:Oratio
-
-[Commemoratio Secreta]
-!Pro Octava S. Joannis Baptistæ
-@Sancti/06-25o:Secreta
-
-[Commemoratio Postcommunio]
-!Pro Octava S. Joannis Baptistæ
-@Sancti/06-25o:Postcommunio

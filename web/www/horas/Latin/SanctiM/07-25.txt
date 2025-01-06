@@ -3,9 +3,6 @@
 [Rule]
 12 lectiones
 
-[Commemoratio 2]
- 
-
 [Lectio4]
 @CommuneM/C1
 

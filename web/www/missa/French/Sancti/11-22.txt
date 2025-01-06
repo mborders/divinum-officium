@@ -1,9 +1,6 @@
 [Rank]
 S. Cæciliæ Virginis et Martyris;;Duplex;;3;;vide C6
 
-[Rank1570]
-S. Cæciliæ Virginis et Martyris;;Semiduplex;;2;;vide C6
-
 [Rule]
 vide C6;
 Gloria
@@ -53,4 +50,3 @@ Que les superbes soient confondus, pour m’avoir maltraité injustement ; mais 
 [Postcommunio]
 Vous avez, Seigneur, nourri votre famille de dons sacrés ; ranimez-nous toujours, s’il vous plaît, grâce à l’intervention de la sainte dont nous célébrons la fête.
 $Per Dominum
-

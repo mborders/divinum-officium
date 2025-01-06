@@ -1,22 +1,15 @@
 [Rank]
 S. Augustini Episcopi et Confessoris et Ecclesiæ Doctoris;;Duplex;;3;;vide C4a
 
-[Name]
-Augustíne
-
 [Rule]
 vide C4a;
 9 lectiones
 
+[Name]
+Augustíne
+
 [Oratio]
 Adésto supplicatiónibus nostris, omnípotens Deus: et, quibus fidúciam sperándæ pietátis indúlges, intercedénte beáto Augustíno Confessóre tuo atque Pontífice, consuétæ misericórdiæ tríbue benígnus efféctum.
-$Per Dominum
-
-[Commemoratio]
-!Commemoratio S. Hermetis Martyris
-@Commune/C2:Oratio proper
-$Oremus
-Deus, qui beátum Hermétem Mártyrem tuum virtúte constántiæ in passióne roborásti: ex ejus nobis imitatióne tríbue; pro amóre tuo próspera mundi despícere, et nulla ejus advérsa formidáre.
 $Per Dominum
 
 [Lectio4]

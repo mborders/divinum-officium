@@ -59,8 +59,28 @@ R. A dicsőség köntösébe öltöztette.
 [Ant 1]
 Pap és főpap * erényekben ékes. néped jó pásztora, imádd az Urat érettünk
 
+[Oratio]
+Hallgasd meg kérünk Uram könyörgésünket amelyet hozzád intézünk áldott hitvallód és püspököd ünnepen, hogy annak kedveért aki olyan magasztosan szolgált téged, bocsásd meg kihágasainkat
+$Per Dominum.
+
+[Oratio1]
+Hallgasd meg Urunk könyorgésünket. amelyeket szent hitvallód és főpapod ünnepén intézünk Hozzád, hogy annak érdemei és kőzbenjárása aki téged hűsegben szolgált, legyen bűneink bocsánatára
+$Per Dominum.
+
+[Oratio2]
+Istenünk, aki az örök üdvösseget adtad szent N. szolgádnak, add hogy akik a földön Egyhazdoktorként tiszteljük, mennyei közbenjárását is élvezhessük
+$Per Dominum.
+
 [Invit]
 Az Úr a hitvallók királya * jöjjetek imádjuk
+
+[Nocturn 2 Versum]
+V. Az Úr kiválasztotta őt papjául
+R. Hogy bemutassa a dicséret ádozatát
+
+[Nocturn 3 Versum]
+V. Te pap vagy mindörökké
+R. Melkizedek rendje szerint`
 
 [Lectio1]
 Olvasmány szent Pál apostol Timóteushoz írott első leveléből
@@ -141,17 +161,44 @@ R. Megmutatta neki Isten országát
 [Ant 2]
 Jól van hűséges * derék szolga: Minthogy a kevésben hű voltál, sokat bízok rád. mondta neki ura.
 
-[Oratio]
-Hallgasd meg kérünk Uram könyörgésünket amelyet hozzád intézünk áldott hitvallód és püspököd ünnepen, hogy annak kedveért aki olyan magasztosan szolgált téged, bocsásd meg kihágasainkat
-$Per Dominum.
+[Lectio Prima]
+!Sir 45:19-20
+v. Örök szövetséget kötött vele, nem talál magához hasonlót dicsőségben; ő megtartotta a Fölséges törvényét, és szövetségben volt vele.
 
-[Oratio1]
-Hallgasd meg Urunk könyorgésünket. amelyeket szent hitvallód és főpapod ünnepén intézünk Hozzád, hogy annak érdemei és kőzbenjárása aki téged hűsegben szolgált, legyen bűneink bocsánatára
-$Per Dominum.
+[Responsory Breve Tertia]
+R.br. Az Úr szerette és felékesítette Őt
+R. Az Úr szerette és felékesítette Őt
+V. A dicsőség köntösébe öltöztette
+R. Felékesítette Őt
+&Gloria
+R. Az Úr szerette és felékesítette Őt
 
-[Oratio2]
-Istenünk, aki az örök üdvösseget adtad szent N. szolgádnak, add hogy akik a földön Egyhazdoktorként tiszteljük, mennyei közbenjárását is élvezhessük
-$Per Dominum.
+[Capitulum Sexta]
+!Sir 44:20; 44:22
+v. Nincs hozzá hasonló aki ugyanűgy megtartaná az Úr törvényét. Ezért az Úr megesküdőtt és népe fölé helyezte őt
+$Deo gratias
+
+[Responsory Breve Sexta]
+R.br. Az Úr kiválasztotta őt papjául
+R. Az Úr kiválasztotta őt papjául
+V. Hogy bemutassa a dicséret ádozatát
+R. Papjául
+&Gloria
+R. Az Úr kiválasztotta őt papjául
+
+[Responsory Breve Nona]
+R.br. Te pap vagy mindörökké
+R.br. Te pap vagy mindörökké
+V. Melkizedek` rendje szerint
+R. Mindörökké
+&Gloria
+R. Te pap vagy mindörökké
+
+[Ant 3 summi Pontificis]
+Igazi főpap volt, a földiek nem tántoritották el, dicsőséggel ment a mennybe
+
+[Ant 3]
+Az Úr szerette * és felékesítette Ő, a dicsőség köntösébe öltöztette es megkoronázta a paradicsom kapujában
 
 [Oratio9]
 Kérünk Urunk, örök Pásztor, hogy szent N. (vértanud és) pápád kozbenjárására, akit Te Egyházad élére tettél, légy irgalmas nyájadhoz.
@@ -160,54 +207,6 @@ $Per Dominum
 [Oratio91]
 Kérünk Urunk, örök Pásztor, hogy szent N. és N. (vértanuid és) pápáid kozbenjárására, akiket Te Egyházad élére tettél, légy irgalmas nyájadhoz.
 $Per Dominum
-
-[Lectio Prima]
-!Sir 45:19-20
-v. Örök szövetséget kötött vele, nem talál magához hasonlót dicsőségben; ő megtartotta a Fölséges törvényét, és szövetségben volt vele.
-
-[Responsory Tertia]
-R.br. Az Úr szerette és felékesítette Őt
-R. Az Úr szerette és felékesítette Őt
-V. A dicsőség köntösébe öltöztette
-R. Felékesítette Őt
-&Gloria
-R. Az Úr szerette és felékesítette Őt
-_
-V. Az Úr kiválasztotta őt papjául
-R. Hogy bemutassa a dicséret ádozatát
-
-[Capitulum Sexta]
-!Sir 44:20; 44:22
-v. Nincs hozzá hasonló aki ugyanűgy megtartaná az Úr törvényét. Ezért az Úr megesküdőtt és népe fölé helyezte őt
-$Deo gratias
-
-[Responsory Sexta]
-R.br. Az Úr kiválasztotta őt papjául
-R. Az Úr kiválasztotta őt papjául
-V. Hogy bemutassa a dicséret ádozatát
-R. Papjául
-&Gloria
-R. Az Úr kiválasztotta őt papjául
-_
-V. Te pap vagy mindörökké
-R. Melkizedek rendje szerint`
-
-[Responsory Nona]
-R.br. Te pap vagy mindörökké
-R.br. Te pap vagy mindörökké
-V. Melkizedek` rendje szerint
-R. Mindörökké
-&Gloria
-R. Te pap vagy mindörökké
-_
-V. Az igazat az Úr vezette egyenes utakon
-R. Megmutatta neki Isten országát
-
-[Ant 3]
-Az Úr szerette * és felékesítette Ő, a dicsőség köntösébe öltöztette es megkoronázta a paradicsom kapujában
-
-[Ant 3 summi Pontificis]
-Igazi főpap volt, a földiek nem tántoritották el, dicsőséggel ment a mennybe
 
 [Lectio1 in 2 loco]
 Olvasmány Jézus Sírák fia könyvéből

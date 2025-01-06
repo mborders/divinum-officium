@@ -6,8 +6,7 @@ Dominica I in Quadragesima;;I classis Semiduplex;;6.9
 Symbolum Athanasium(rubrica tridentina)
 
 [Versum 1]
-V. Angelis suis Deus mandávit de te.
-R. Ut custódiant te in ómnibus viis tuis.
+@Psalterium/Special/Major Special:Quad Versum 2
 
 [Ant 1]
 Tunc invocábis, * et Dóminus exáudiet: clamábis, et dicet: Ecce adsum.
@@ -58,7 +57,7 @@ R. Ut non vituperétur ministérium nostrum.
 6 Sed qui consolátur húmiles, consolátus est nos Deus in advéntu Titi.
 7 Non solum autem in advéntu ejus, sed étiam in consolatióne, qua consolátus est in vobis, réferens nobis vestrum desidérium, vestrum fletum, vestram æmulatiónem pro me, ita ut magis gaudérem.
 8 Quóniam etsi contristávi vos in epístola, non me pœ́nitet: etsi pœnitéret, videns quod epístola illa (etsi ad horam) vos contristávit,
-9 nunc gáudeo: non quia contristáti estis, sed quia contristáti estis ad pœniténtiam. 
+9 nunc gáudeo: non quia contristáti estis, sed quia contristáti estis ad pœniténtiam.
 
 [Responsory3]
 R. In jejúnio et flétu orábunt sacerdótes, dicéntes:
@@ -127,7 +126,7 @@ R. Tunc erúmpet quasi mane lumen tuum, et anteíbit fáciem tuam justítia tua.
 Sed sciéndum nobis est, quia tribus modis tentátio agitur: suggestióne, delectatióne et consénsu. Et nos cum tentamur, plerumque in delectatiónem, aut étiam in consénsum lábimur: quia de carnis peccáto propagati, in nobis ipsis étiam gérimus, unde certámina tolerámus. Deus vero, qui in útero Vírginis incarnatus, in mundum sine peccáto vénerat, nihil contradictiónis in semetípso tolerábat. Tentari ergo per suggestiónem pótuit: sed ejus méntem peccáti delectátio non momórdit. Atque ideo omnis diabolica illa tentátio foris, non intus fuit.
 
 [Responsory9]
-R. Angelis suis Deus mandávit de te, ut custodiánt te in ómnibus viis tuis:
+R. Angelis suis Deus mandávit de te, ut custódiant te in ómnibus viis tuis:
 * In mánibus portábunt te, ne umquam offéndas ad lápidem pedem tuum.
 V. Super áspidem et basilíscum ambulábis, et conculcábis leónem et dracónem.
 R. In mánibus portábunt te, ne umquam offéndas ad lápidem pedem tuum.

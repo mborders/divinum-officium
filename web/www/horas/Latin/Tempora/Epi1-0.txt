@@ -8,6 +8,7 @@ Sanctæ Familiæ Jesu Mariæ Joseph;;Duplex II classis;;5
 Psalmi Dominica
 Antiphonas horas
 No Sunday Commemoratio(rubrica 1960)
+Festum Domini
 
 [Ant Vespera]
 Jacob autem * génuit Joseph virum Maríæ; de qua natus est Jesus, qui vocátur Christus.;;109
@@ -60,9 +61,6 @@ Cum Patre summo ac Spíritu
 Semper tibi sit glória.
 Amen.
 
-[Versum Prima]
-Qui Maríæ et Joseph súbditus fuísti.
-
 [Versum 1]
 V. Beáti qui hábitant in domo tua, Dómine.
 R. In sǽcula sæculórum laudábunt te.
@@ -73,6 +71,10 @@ Verbum caro * factum est, et habitávit in nobis, plenum grátiæ et veritátis;
 [Oratio]
 Dómine Jesu Christe, qui, Maríæ et Joseph súbditus, domésticam vitam ineffabílibus virtútibus consecrásti: fac nos, utriúsque auxílio, Famíliæ sanctæ tuæ exémplis ínstrui; et consórtium cónsequi sempitérnum:
 $Qui vivis
+
+[Commemoratio]
+!Commemoratio Dominicæ in Octava Epiphaniæ
+@Tempora/Epi1-0a:Oratio:s/V\. .*/V. Omnes de Saba vénient, allelúja./ s/R\. .*/R. Aurum et thus deferéntes, allelúja./
 
 [Invit]
 Christum Dei Fílium, Maríæ et Joseph súbditum, * Veníte, adorémus.
@@ -165,7 +167,7 @@ R. Et cum homínibus conversátus est.
 !Col 3:17-21
 17 Omne, quodcúmque fácitis in verbo aut in ópere, ómnia in nómine Dómini Jesu Christi, grátias agéntes Deo et Patri per ipsum. 
 18 Mulíeres, súbditæ estóte viris, sicut opórtet in Dómino. 
-19 Viri, díligite uxóres vestras, et nolíte amári esse ad illas. 
+19 Viri, dilígite uxóres vestras, et nolíte amári esse ad illas. 
 20 Fílii, obedíte paréntibus per ómnia: hoc enim plácitum est in Dómino. 
 21 Patres, nolíte ad indignatiónem provocáre fílios vestros, ut non pusíllo ánimo fiant.
 
@@ -322,6 +324,9 @@ Illúmina nos, Dómine, * exémplis Famíliæ tuæ, et dírige pedes nostros in 
 !Phil 2:7
 v. Semetípsum exinanívit formam servi accípiens, in similitúdinem hóminum factus, et hábitu invéntus ut homo.
 
+[Versum Prima]
+Qui Maríæ et Joseph súbditus fuísti.
+
 [Responsory Tertia]
 R.br. Propter nos egénus factus est * Cum esset dives.
 R. Propter nos egénus factus est * Cum esset dives.
@@ -376,7 +381,3 @@ Et dicébant: * Unde huic sapiéntia hæc, et virtútes? Nonne hic est fabri fí
 
 [Ant 3]
 María autem * conservábat ómnia verba hæc, cónferens in corde suo.
-
-[Commemoratio]
-!Commemoratio Dominicæ in Octava Epiphaniæ
-@Tempora/Epi1-0a:Oratio:s/V\. .*/V. Omnes de Saba vénient, allelúja./ s/R\. .*/R. Aurum et thus deferéntes, allelúja./

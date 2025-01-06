@@ -8,11 +8,11 @@ vide C2;
 [Ant Vespera]
 @Sancti/12-26:Ant Laudes
 
+[Versum 1]
+@Commune/C2
+
 [Ant 1]
 @Sancti/12-26
-
-[Versum 1]
-@Commune/C2:Versum 1
 
 [Oratio]
 @Sancti/12-26::s/natalícia/Inventiónem/
@@ -60,12 +60,16 @@ Quibus auditis Jerosolymórum antístes, finitimárum urbium epíscopis presbyte
 @Sancti/12-26
 
 [Lectio6]
-Ex libro sancti Augustíni Epíscopi de Cívitate Dei
+Ex libro sancti Augustíni Epíscopi de Civitáte Dei
 !Liber 22, cap. 8, circa medium
 Ad aquas Tibilitanas, episcopo afferénte Projecto relíquias Mártyris gloriosíssimi Stephani, ad ejus memóriam veniebat magnæ multitúdinis concursus et occúrsus. Ibi cæca mulier, ut ad episcopum portántem pígnora sacra ducerétur, orávit: flores, quos ferebat, dedit; recepit, óculis admóvit, prótinus vidit. Stupéntibus qui áderant, præibat exsultans, viam carpens et viæ ducem ulterius non requírens. Memoráti memóriam Mártyris, quæ pósita est in castello Synicénsi, quod Hipponénsi coloniæ vicinum est, ejusdem loci Lucillus epíscopus, pópulo præcedénte atque sequente, portábat; fístula, cujus molestia jamdiu laboraverat, et familiaríssimi sui médici, qui eam secaret, opperiebátur manus, illíus piæ sarcinæ vectatióne repénte sanáta est.
 
 [Responsory6]
 @Sancti/12-26
+
+[Lectio94]
+Sanctórum córpora Stéphani Protomártyris, Gamaliélis, Nicodémi et Abibónis, suavíssimum odórem manántia, a Joánne Jerosolymitárum antístite, invénta sunt prope Jerosólymam. Cujus rei fama commóta, magna hóminum multitúdo eo convénit, multíque ex váriis morbis ægróti ac débiles, sani et íntegri domum rediérunt. Sacrum autem sancti Stéphani corpus, quod summa tunc celebritáte in sanctam ecclésiam Sion illátum est, sub Theodósio junióre Constantinópolim, inde Romam, Pelágio primo summo Pontífice, translátum, in agro Veráno in sepúlcro sancti Lauréntii Mártyris collocátum est.
+&teDeum
 
 [Lectio7]
 Léctio sancti Evangélii secúndum Matthǽum
@@ -93,7 +97,7 @@ Alii istum volunt esse Zacharíam, qui occisus est a Joas rege Judæ inter templ
 @Sancti/12-26
 
 [Capitulum Laudes]
-@Sancti/12-26:Capitulum Laudes
+@Sancti/12-26
 
 [Versum 2]
 @Sancti/12-26
@@ -115,7 +119,3 @@ Alii istum volunt esse Zacharíam, qui occisus est a Joas rege Judæ inter templ
 
 [Ant 3]
 @Sancti/12-26
-
-[Lectio94]
-Sanctórum córpora Stéphani Protomártyris, Gamaliélis, Nicodémi et Abibónis, suavíssimum odórem manántia, a Joánne Jerosolymitárum antístite, invénta sunt prope Jerosólymam. Cujus rei fama commóta, magna hóminum multitúdo eo convénit, multíque ex váriis morbis ægróti ac débiles, sani et íntegri domum rediérunt. Sacrum autem sancti Stéphani corpus, quod summa tunc celebritáte in sanctam ecclésiam Sion illátum est, sub Theodósio junióre Constantinópolim, inde Romam, Pelágio primo summo Pontífice, translátum, in agro Veráno in sepúlcro sancti Lauréntii Mártyris collocátum est.
-&teDeum

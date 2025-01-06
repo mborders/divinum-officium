@@ -8,11 +8,19 @@ Siervo bueno * y fiel, pasa al banquete de tu Señor.
 [Ant 1]
 Él se parece * a un hombre sensato que cimentó su casa en roca. 
 
-[Ant Matutinum]
-@Commune/C4::1-8
+[Oratio]
+¡Oh, Dios, que todos los años nos alegras con la solemnidad de San N.!; al celebrar su entrada en la gloria, concédenos la gracia de imitar sus ejemplos. 
+$Per Dominum.
+
+[Oratio1]
+Te rogamos, Señor, que interceda ante ti la oración de tu Santo abad N.; para que consigamos los bienes que nuestros méritos no alcanzan.	
+$Per Dominum.
+
+[Nocturn 2 Versum]
 V. La boca del justo derramará sabiduría. 
 R. Y su lengua hablará juiciosamente.
-@Commune/C4::11-13
+
+[Nocturn 3 Versum]
 V. La ley de su Dios la tiene en medio del corazón.  
 R. Y andará con firmes pasos.
 
@@ -111,13 +119,6 @@ Dos son las cosas que se nos ordenan, tener ceñidas las cinturas y encendidas l
 Y vosotros sed semejantes a los criados que aguardan a su amo cuando vuelve de las bodas, a fin de abrirle prontamente luego que llegue y llame a la puerta. Viene el Señor, en efecto, cuando se acerca para juzgarnos; llama, cuando mediante las molestias de las enfermedades muestra que la muerte está cercana. Le abrimos al instante, si le recibimos con amor. No quiere abrir al juez cuando llama, aquel que tiembla de abandonar el cuerpo, y se espanta de ver aquel juez al que recuerda haber despreciado. Mas el que está tranquilo, por su esperanza y obras, abre al instante al que llama, ya que alegremente aguarda al juez, y al acercarse el tiempo de la muerte, se goza con la gloria de la retribución.
 &teDeum
 
-[Ant Laudes]
-Señor, cinco talentos * me dejaste; mira, otros cinco talentos he ganado.
-Bien, siervo bueno * y fiel: en lo poco has sido fiel, pasa al banquete de tu Señor.
-Este es el criado fiel * y solícito, a quien el Señor ha puesto al frente de su servidumbre.
-Dichoso el criado * a quien su señor, al llegar y llamar a la puerta, lo encuentra velando.
-Siervo bueno * y fiel, pasa al banquete de tu Señor.
-
 [Capitulum Laudes]
 !Sir 31:8-9
 v. ¡Dichoso el hombre que es hallado intachable: que no corrió detrás del dinero ni puso su confianza en las riquezas! ¿Quién es ése?, y lo felicitaremos. Porque ha hecho maravillas en su pueblo.
@@ -168,55 +169,30 @@ Amén.
 [Ant 2]
 Bien, siervo bueno * y fiel: en lo poco has sido fiel, te daré un cargo importante, pasa al banquete de tu Señor. 
 
-[Oratio]
-¡Oh, Dios, que todos los años nos alegras con la solemnidad de San N.!; al celebrar su entrada en la gloria, concédenos la gracia de imitar sus ejemplos. 
-$Per Dominum.
-
-[Oratio1]
-Te rogamos, Señor, que interceda ante ti la oración de tu Santo abad N.; para que consigamos los bienes que nuestros méritos no alcanzan.	
-$Per Dominum.
-
 [Lectio Prima]
 !Sab 10:10
 v. El Señor condujo al justo por sendas llanas, le mostró el reino de Dios y le dio a conocer las cosas santas. Lo hizo prosperar en sus tareas, hizo fecundos sus trabajos.
-
-[Responsory Tertia]
-R.br. El Señor lo amó * Y lo enalteció. 
-R. El Señor lo amó * Y lo enalteció. 
-V. Lo vistió con un traje de honor. 
-R. Y lo enalteció. 
-&Gloria
-R. El Señor lo amó * Y lo enalteció. 
-_
-V. La boca del justo expone la sabiduría.	
-R. Su lengua explica el derecho.	
 
 [Capitulum Sexta]
 !Sir 39:6
 v. El justo hace propósito de madrugar para buscar al Señor, que lo creó, y reza en presencia del Altísimo.	
 $Deo gratias
 
-[Responsory Sexta]
+[Responsory Breve Sexta]
 R.br. La boca del justo * Expone la sabiduría. 
 R. La boca del justo * Expone la sabiduría. 
 V. Su lengua explica el derecho. 
 R. Expone la sabiduría.
 &Gloria
 R. La boca del justo * Expone la sabiduría. 
-_
-V. Lleva en el corazón la ley de su Dios. 
-R. Y sus pasos no vacilan.
 
-[Responsory Nona]
+[Responsory Breve Nona]
 R.br. Lleva en el corazón * La ley de su Dios. 
 R. Lleva en el corazón * La ley de su Dios. 
 V. Y sus pasos no vacilan. 
 R. La ley de su Dios.
 &Gloria
-R. Lleva en el corazón * La ley de su Dios. 
-_
-V. El Señor condujo al justo por sendas llanas.
-R. Y le mostró el reino de Dios.
+R. Lleva en el corazón * La ley de su Dios.
 
 [Ant 3]
 Este santo, despreciando el mundo * y los bienes de la tierra, acumuló con sus palabras y obras bienes para el cielo, donde él triunfa.

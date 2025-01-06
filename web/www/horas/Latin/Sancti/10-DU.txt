@@ -289,12 +289,12 @@ R. Et pacis non erit finis.
 [Ant 2]
 Fecit nos Deo * et Patri suo regnum, primogénitus mortuórum, et Princeps regum terræ, allelúja.
 
-[Versum Prima]
-Qui primátum in ómnibus tenes.
-
 [Lectio Prima]
 !Col 1:19-20
 v. In ipso complácuit omnem plenitúdinem inhabitáre, et per eum reconciliáre ómnia in ipsum, pacíficans per sánguinem crucis ejus sive quæ in terris, sive quæ in cælis sunt, in Christo Jesu Dómino nostro.
+
+[Versum Prima]
+Qui primátum in ómnibus tenes.
 
 [Responsory Tertia]
 R.br. Data est mihi * Omnis potéstas.
@@ -340,8 +340,7 @@ V. Multiplicábitur ejus impérium.
 R. Et pacis non erit finis.
 
 [Versum 3]
-V. Multiplicábitur ejus impérium.
-R. Et pacis non erit finis.
+@:Versum 2
 
 [Ant 3]
 Habet in vestiménto * et in fémore suo scriptum: Rex regum, et Dóminus dominántium. Ipsi glória et impérium, in sǽcula sæculórum.

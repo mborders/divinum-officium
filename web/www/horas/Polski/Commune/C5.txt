@@ -8,11 +8,19 @@ Sługo dobry i wierny, wnijdź do wesela Pana twego.
 [Ant 1]
 Będzie przypodobany * mężowi mądremu, który zbudował dom swój na opoce.
 
-[Ant Matutinum]
-@Commune/C4::1-8
+[Oratio]
+Boże, który uroczystością błogosławionego N., Wyznawcy Twego, corocznie nas uweselasz, dozwól łaskawie, abyśmy naśladowali uczynki tego, którego narodziny wysławiamy.
+$Per Dominum.
+
+[Oratio1]
+Prosimy Cię, Panie, niechaj przyczyna błogosławionego N. Opata, poleci nas Twej opiece, abyśmy, czego własną zasługą uzyskać nie możemy, za jego pomocą dostąpili.
+$Per Dominum.
+
+[Nocturn 2 Versum]
 V. Usta sprawiedliwego będą rozmyślać mądrość.
 R. A język jego będzie mówił sąd.
-@Commune/C4::11-13
+
+[Nocturn 3 Versum]
 V. Zakon Boga jego w sercu jego.
 R. A nie będą przerzucone kroki jego
 
@@ -68,13 +76,6 @@ R. Oto ten, który wielkich dzieł dokonał przed Bogiem i z całego serca chwal
 V. Oto człowiek bez zarzutu, prawdziwy czciciel Boga; wstrzymywał się od wszelkiego zła, trwając w swojej niewinności.
 R. Niech więc oręduje za grzesznikami spośród wszystkich ludów.
 
-[Ant Laudes]
-Panie, * dałeś mi pięć talentów, otom drugie pięć zyskał.
-Dobrzeć sługo dobry * i wierny, gdyżeś nad małem był wiernym, wnijdź do wesela Pana twego.
-Oto jest sługa wierny * i roztropny, którego postanowił pan jego nad czeladzią swoją.
-Błogosławiony on sługa, * którego przyszedłszy Pan, znajdzie czuwającego.
-Sługo dobry i wierny, wnijdź do wesela Pana twego.
-
 [Capitulum Laudes]
 !Syr 31:8-9
 v. Szczęśliwy mąż, który jest nalezion bez zmazy i który za złotem nie biegał ani ufał w pieniądzach i w skarbiech. Któż jest taki, a będziem go chwalić, abowiem uczynił dziwy w żywocie swoim.
@@ -125,55 +126,30 @@ Amen.
 [Ant 2]
 Dobrzeć, sługo dobry * i wierny, gdyżeś nad małem był wiernym, nad wielem cię postanowię, wnidź do wesela Pana twego.
 
-[Oratio]
-Boże, który uroczystością błogosławionego N., Wyznawcy Twego, corocznie nas uweselasz, dozwól łaskawie, abyśmy naśladowali uczynki tego, którego narodziny wysławiamy.
-$Per Dominum.
-
-[Oratio1]
-Prosimy Cię, Panie, niechaj przyczyna błogosławionego N., Opata Twego, poleci nas Twej opiece, abyśmy, czego własną zasługą uzyskać nie możemy, za jego pomocą dostąpili.
-$Per Dominum.
-
 [Lectio Prima]
 !Mdr 10:10
 v. Sprawiedliwego prowadził Pan drogami prostemi, i ukazał mu królestwo Boże, i dał mu poznanie świętych: uczcił go w pracach i napełnił prace jego.
-
-[Responsory Tertia]
-R.br. Umiłował go Pan, * I przyozdobił go.
-R. Umiłował go Pan, * I przyozdobił go.
-V. Szatą chwały przyodział go.
-R. I przyozdobił go.
-&Gloria
-R. Umiłował go Pan, * I przyozdobił go.
-_
-V. Usta sprawiedliwego będą rozmyślać mądrość.
-R. A język jego będzie mówił sąd.
 
 [Capitulum Sexta]
 !Syr 39:6
 v. Sprawiedliwy obróci serce swe, aby wstawał rano do Pana, który go stworzył, a przed oczyma Nawyższego modlić się będzie.
 $Deo gratias
 
-[Responsory Sexta]
+[Responsory Breve Sexta]
 R.br. Usta sprawiedliwego * Będą rozmyślać mądrość.
 R. Usta sprawiedliwego * Będą rozmyślać mądrość.
 V. A język jego będzie mówił sąd.
 R. Będą rozmyślać mądrość.
 &Gloria
 R. Usta sprawiedliwego * Będą rozmyślać mądrość.
-_
-V. Zakon Boga jego w sercu jego.
-R. A nie będą przerzucone kroki jego
 
-[Responsory Nona]
+[Responsory Breve Nona]
 R.br. Zakon Boga jego * W sercu jego.
 R. Zakon Boga jego * W sercu jego.
 V. A nie będą przerzucone kroki jego
 R. W sercu jego.
 &Gloria
 R. Zakon Boga jego * W sercu jego.
-_
-V. Sprawiedliwego prowadził Pan drogami prostymi.
-R. I okazał mu królestwo Boże.
 
 [Ant 3]
 Ten mąż, wzgardziwszy światem * i dobrami ziemskiemi, triumfuje, zebrawszy czynami i słowy skarby dla nieba.

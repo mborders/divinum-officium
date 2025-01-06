@@ -1,12 +1,6 @@
 [Rank]
 In Cathedra S. Petri Ap. Antiochiae;;Duplex majus;;4;;ex C4
 
-[Rank1960]
-In Cathedra S. Petri Apostoli;;Duplex II classis;;5;;ex C4
-
-[RankNewcal]
-In Cathedra S. Petri Apostoli;;Duplex II classis;;5;;ex C4
-
 [Rule]
 ex C4;
 Gloria
@@ -22,16 +16,8 @@ O God, Who when giving blessed Peter, Your Apostle, the keys of the heavenly kin
 $Per Dominum
 _
 !Commemoration of St. Paul
-O God, Who taught vast numbers of the Gentiles by the preaching of the blessed~
-Apostle Paul, grant, we beseech You, that by honoring his memory, we may enjoy~
-the benefit of his patronal intercession with You.
+O God, Who taught vast numbers of the Gentiles by the preaching of the blessed Apostle Paul, grant, we beseech You, that by honoring his memory, we may enjoy the benefit of his patronal intercession with You.
 $Per Dominum
-
-[Tractus]
-!Ps 106:32, 31
-Let them extol him in the assembly of the people and praise him in the council of the elders.
-V. Let them give thanks to the Lord for His kindness and His wondrous deeds to the children of men.
-@Commune/Coronatio 
 
 [GradualeP]
 Alleluia, alleluia.
@@ -39,6 +25,14 @@ Alleluia, alleluia.
 V. Let them give thanks to the Lord for His kindness and His wondrous deeds to the children of men. Alleluia.
 !Matt 16:18 
 V. You are Peter, and upon this rock I will build My Church. Alleluia.
+
+[Tractus]
+!Ps 106:32, 31
+Let them extol him in the assembly of the people and praise him in the council of the elders.
+V. Let them give thanks to the Lord for His kindness and His wondrous deeds to the children of men.
+_
+!Tractus
+@Commune/Coronatio
 
 [Secreta]
 We beseech You, O Lord, may the prayer of the blessed Apostle, Peter, recommend the petitions and offerings of Your Church, so that what we celebrate in his honor may obtain forgiveness for us.
@@ -53,8 +47,5 @@ O Lord, may the gift we offer bring us joy, that as we praise Your wondrous work
 $Per Dominum
 _
 !For St. Paul
-Made holy by the sacrament of salvation, we beseech You, O Lord, that the~
-prayers of him under whose patronal care You have granted us to be ruled may~
-never fail us.
+Made holy by the sacrament of salvation, we beseech You, O Lord, that the prayers of him under whose patronal care You have granted us to be ruled may never fail us.
 $Per Dominum
-

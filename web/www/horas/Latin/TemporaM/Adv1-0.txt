@@ -4,13 +4,7 @@
 12 lectiones
 
 [Ant Vespera](rubrica tridentina)
-@Psalterium/Psalmi major:Daym6 Vespera
-
-[Responsory Vespera]
-@Psalterium/Major Special:AdvM Vespera:3-8
-
-[Responsory Laudes]
-@Psalterium/Major Special:AdvM Laudes:3-8
+@Psalterium/Psalmi/Psalmi major:Daym6 Vespera
 
 [Lectio1]
 @Tempora/Adv1-0:Lectio1
@@ -77,4 +71,3 @@ Confúsio autem maris et flúctuum necdum nova exórta est. Sed cum multa prænu
 
 [Responsory12]
 @Tempora/Adv1-1:Responsory3
-

@@ -1,9 +1,6 @@
 [Rank]
 S. Joachim Confessoris, Patris B. Mariæ Virginis;;Duplex II class;;5.1;;ex C5
 
-[Rank1960]
-S. Joachim Confessoris, Patris B. Mariæ Virginis;;Duplex II class;;5;;ex C5
-
 [Rule]
 ex C5;
 Gloria
@@ -29,13 +26,7 @@ Heureux l’homme qui a été trouvé sans tache, qui n’a pas couru après l�
 !Ps 111:9; 111:2
 Il répand ses largesses, il donne aux pauvres : sa justice demeure d’âge en âge.
 V. Sa race sera puissante sur la terre : la descendance des juste sera bénie. Alléluia, alléluia.
-V.  Ô Joachim, saint époux d’Anne, père de la Vierge nourricière, aidez ici-bas au salut de vos serviteurs ! Alléluia.
-
-[Tractus]
-!Ps 20:3-4
-Vous lui avez accordé le désir de son cœur, et vous ne l’avez point frustré de la demande de ses lèvres.
-V. Car vous l’avez prévenu des plus douces bénédictions.
-V. Vous avez mis sur sa tête une couronne de pierres précieuses.
+V. Ô Joachim, saint époux d’Anne, père de la Vierge nourricière, aidez ici-bas au salut de vos serviteurs ! Alléluia.
 
 [GradualeP]
 Alléluia, alléluia.
@@ -43,10 +34,16 @@ Alléluia, alléluia.
 Sa race sera puissante sur la terre : la descendance des juste sera bénie. Alléluia.
 V. Ô Joachim, saint époux d’Anne, père de la Vierge nourricière, aidez ici-bas au salut de vos serviteurs ! Alléluia.
 
+[Tractus]
+!Ps 20:3-4
+Vous lui avez accordé le désir de son cœur, et vous ne l’avez point frustré de la demande de ses lèvres.
+V. Car vous l’avez prévenu des plus douces bénédictions.
+V. Vous avez mis sur sa tête une couronne de pierres précieuses.
+
 [Evangelium]
 Initium sancti Evangélii secúndum Matthǽum.
 !Matt 1:1-16
-Généalogie de Jésus-Christ, fils de David, fils d’Abraham. Abraham engendra Isaac ; Isaac engendra Jacob ; Jacob engendra Juda et ses frères ; Juda, de Thamar, engendra Pharès et Zara ; Phares engendra Esrom ; Esrom engendra Aram ; Aram engendra Aminadab ; Aminadab engendra Naasson ; Naasson engendra Salmon ; Salmon, de Rahab, engendra Booz ; Booz, de Ruth, engendra Obed ; Obed engendra Jessé ; Jessé engendra le roi David. David engendra Salomon de la femme d’Urie ; Salomon engendra Roboam ; Roboam engendra Abia ; Abia engendra Asa ; Asa engendra Josaphat ; Josaphat engendra Joram ; Joram engendra Ozias ; Ozias engendra Joatham ; Joatham engendra Achaz ; Achaz engendra Ezéchias ; Ezéchias engendra Manassé ; Manassé engendra Amon ; Amon engendra Josias ; Josias engendra Jéchonias et ses frères, au temps de la déportation à Babylone. Après la déportation à Babylone, Jéchonias engendra Salathiel ; Salatheil engendra Zorobabel ; Zorobabel engendra Abioud ; Abioud engendra Eliacim ; Eliacim engendra Azor ; Azor engendra Sadoc ; Sadoc engendra Achim ; Achim engendra Elioud ; Elioud engendra Eléazar ; Eléazar engendra Matthan ; Matthan engendra Jacob ; Jacob engendra Joseph l’époux de Marie, de laquelle est né Jésus, qu’on appelle Christ. 
+Généalogie de Jésus-Christ, fils de David, fils d’Abraham. Abraham engendra Isaac ; Isaac engendra Jacob ; Jacob engendra Juda et ses frères ; Juda, de Thamar, engendra Pharès et Zara ; Phares engendra Esrom ; Esrom engendra Aram ; Aram engendra Aminadab ; Aminadab engendra Naasson ; Naasson engendra Salmon ; Salmon, de Rahab, engendra Booz ; Booz, de Ruth, engendra Obed ; Obed engendra Jessé ; Jessé engendra le roi David. David engendra Salomon de la femme d’Urie ; Salomon engendra Roboam ; Roboam engendra Abia ; Abia engendra Asa ; Asa engendra Josaphat ; Josaphat engendra Joram ; Joram engendra Ozias ; Ozias engendra Joatham ; Joatham engendra Achaz ; Achaz engendra Ezéchias ; Ezéchias engendra Manassé ; Manassé engendra Amon ; Amon engendra Josias ; Josias engendra Jéchonias et ses frères, au temps de la déportation à Babylone. Après la déportation à Babylone, Jéchonias engendra Salathiel ; Salatheil engendra Zorobabel ; Zorobabel engendra Abioud ; Abioud engendra Eliacim ; Eliacim engendra Azor ; Azor engendra Sadoc ; Sadoc engendra Achim ; Achim engendra Elioud ; Elioud engendra Eléazar ; Eléazar engendra Matthan ; Matthan engendra Jacob ; Jacob engendra Joseph l’époux de Marie, de laquelle est né Jésus, qu’on appelle Christ.
 
 [Offertorium]
 !Ps 8:6-7

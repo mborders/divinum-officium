@@ -1,9 +1,6 @@
 [Rank]
 S. Matthæi Apostoli et Evangelistæ;;Duplex II classis;;5.1;;ex C1a
 
-[Rank] (rubrica 196)
-S. Matthæi Apostoli et Evangelistæ;;Duplex II classis;;5;;ex C1a
-
 [Rule]
 ex C1a;
 Gloria
@@ -30,7 +27,11 @@ V. Te gloriosus Apostolórum chorus laudat, Dómine. Allelúja.
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthǽum
 !Matt 9:9-13
-In illo témpore: Vidit Jesus hóminem sedéntem in telónio, Matthǽum nómine. Et ait illi: Séquere me. Et surgens, secútus est eum. Et factum est, discumbénte eo in domo, ecce, multi publicáni et peccatóres veniéntes discumbébant cum Jesu et discípulis ejus. Et vidéntes pharisæi, dicébant discípulis ejus: Quare cum publicánis et peccatóribus mánducat Magíster vester? At Jesus áudiens, ait: Non est opus valéntibus médicus, sed male habéntibus. Eúntes autem díscite, quid est: Misericórdiam volo, et non sacrifícium. Non enim veni vocáre justos, sed peccatóres.
+In illo témpore: Vidit Jesus hóminem sedéntem in telónio, Matthǽum nómine. Et
+ait illi: Séquere me. Et surgens, secútus est eum. Et factum est, discumbénte
+eo in domo, ecce, multi publicáni et peccatóres veniéntes discumbébant cum Jesu
+et discípulis ejus. Et vidéntes pharisæi, dicébant discípulis ejus: Quare cum
+publicánis et peccatóribus mandúcat Magíster vester? At Jesus áudiens, ait: Non est opus valéntibus médicus, sed male habéntibus. Eúntes autem díscite, quid est: Misericórdiam volo, et non sacrifícium. Non enim veni vocáre justos, sed peccatóres.
 
 [Offertorium]
 !Ps 20:4-5

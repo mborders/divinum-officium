@@ -7,13 +7,39 @@ Omit Hymnus Preces Suffragium Commemoratio;
 Minores sine Antiphona;
 Capitulum Versum 2;
 Psalmi Dominica;
-Prima=53 
+Prima=53
 
 [Ant 1]
 Szombat elmúltával, * a hét első napjának hajnalán a magdalai Mária és a másik Mária elment, hogy megnézze a sírt. alleluja.
 
-[Ant 41]
-Szombat elmúltával, * a hét első napjának hajnalán a magdalai Mária és a másik Mária elment, hogy megnézze a sírt. alleluja.
+[Oratio]
+Isten, ki ezen a napon Egyszülötted által legyőzted a halált, és megnyitottad az örök élet kapuját: aki kegyelmed erejével szent vágyakat ébresztessz szíveinkben, add hogy segítségeddel elérjuk mindazt a jót amire törekszünk
+$Per eumdem
+
+[Special Vespera 1]
+#Sabbato Sancto special Paschal Vespera
+_
+$Pater noster
+$Ave Maria 
+_
+Ant. Alleluja, alleluja, alleluja.
+&psalm(116)
+Ant. Alleluja, alleluja, alleluja.
+_
+Ant. Szombat elmúltával, a hét első napjának hajnalán a magdalai Mária és a másik Mária elment, hogy megnézze a sírt, alleluja.
+&psalm(232)
+Ant. Szombat elmúltával, a hét első napjának hajnalán a magdalai Mária és a másik Mária elment, hogy megnézze a sírt, alleluja.
+
+&Dominus_vobiscum
+Öntsd ki ránk Urunk, szereteted Lelkét. hogy akik husvét szentsegeivel
+töltekeztünk, egy szívvel teljünk el a te jóságoddal
+$Per Dominum
+&Dominus_vobiscum
+
+V. Áldjuk az Urat, alleluja, alleluja.
+R. Istennek legyen hála, alleluja, alleluja.
+$Fidelium animae
+$Pater noster
 
 [Invit]
 Feltámadott az Úr valoban * alleluja
@@ -32,11 +58,7 @@ Amikor elmúlt a szombat, Mária Magdolna, Mária, Jakab anyja, és Szalómé il
 _
 Homilia sancti Gregorii Papae.
 !Homilia 21. in Evangelia.
-Audistis fratres carissimi quod sanctć mulieres, quć Dominum fuerant secutae, cum aromatibus ad monumentum venerunt, et ei, quem viventem dilexerant, etiam~
-mortuo, studio humanitatis obsequuntur. Sed res gesta aliquid in sancta Ecclesia signat gerendum. Sic quippe necesse est ut audiamus quć facta sunt, quatenus cogitemus etiam | quć nobis sint ex eorum imitatione facienda. Et nos ergo in eum, qui est mortuus, credentes, si odore virtutum referti, cum opinione bonorum operum Dominum qućrimus, ad monumentum profecto illius cum aromatibus venimus. Ulć autem mulieres Angelos vident, quć cum aromatibus venerunt: quia videlicet illć mentes supernos cives aspiciunt, quć cum virtutum odoribus ad Dominum per sancta desideria proficiscuntur.
-
-[Prelude Laudes] (rubrica 1955 aut rubrica 1960)
-@:Prelude Matutinum
+Audistis fratres carissimi quod sanctć mulieres, quć Dominum fuerant secutae, cum aromatibus ad monumentum venerunt, et ei, quem viventem dilexerant, etiam mortuo, studio humanitatis obsequuntur. Sed res gesta aliquid in sancta Ecclesia signat gerendum. Sic quippe necesse est ut audiamus quć facta sunt, quatenus cogitemus etiam | quć nobis sint ex eorum imitatione facienda. Et nos ergo in eum, qui est mortuus, credentes, si odore virtutum referti, cum opinione bonorum operum Dominum qućrimus, ad monumentum profecto illius cum aromatibus venimus. Ulć autem mulieres Angelos vident, quć cum aromatibus venerunt: quia videlicet illć mentes supernos cives aspiciunt, quć cum virtutum odoribus ad Dominum per sancta desideria proficiscuntur.
 
 [Ant Laudes]
 Az Úr angyala ugyanis * leszállt az égből, odament, elhengerítette a követ és ráült, alleluja, alleluja.
@@ -51,39 +73,8 @@ Ant. Ez a nap, * melyet az Úr szerzett; örvendezzünk és vigadjunk azon.
 [Ant 2]
 A hét első napján * kora reggel, napkeltekor kimentek a sírhoz, alleluja.
 
-[Oratio]
-Isten, ki ezen a napon Egyszülötted által legyőzted a halált, és megnyitottad az örök élet kapuját: aki kegyelmed erejével szent vágyakat ébresztessz szíveinkben, add hogy segítségeddel elérjuk mindazt a jót amire törekszünk
-$Per eumdem
-
-[Special Vespera 1]
-#Sabbato Sancto special Paschal Vespera
-_
-$Pater noster
-$Ave Maria 
-_
-Ant. Alleluja, alleluja, alleluja.
-&psalm(116)
-Ant. Alleluja, alleluja, alleluja.
-_
-Ant. Szombat elmúltával, a hét első napjának hajnalán a magdalai Mária és a másik Mária elment, hogy megnézze a sírt, alleluja.
-&canticum(2)
-&Gloria
-{::}
-Ant. Szombat elmúltával, a hét első napjának hajnalán a magdalai Mária és a másik Mária elment, hogy megnézze a sírt, alleluja.
-
-&Dominus_vobiscum
-Öntsd ki ránk Urunk, szereteted Lelkét. hogy akik husvét szentsegeivel
-töltekeztünk, egy szívvel teljünk el a te jóságoddal
-$Per Dominum
-&Dominus_vobiscum
-
-V. Áldjuk az Urat, alleluja, alleluja.
-R. Istennek legyen hála, alleluja, alleluja.
-$Fidelium animae
-$Pater noster
-
-[Ant Vespera]
-@:Ant Laudes
+[Ant 41]
+Szombat elmúltával, * a hét első napjának hajnalán a magdalai Mária és a másik Mária elment, hogy megnézze a sírt. alleluja.
 
 [Ant 43]
 Alleluja, Alleluja, Alleluja, Alleluja

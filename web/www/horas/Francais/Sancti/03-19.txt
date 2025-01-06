@@ -1,16 +1,6 @@
 [Rank]
 S. Joseph Sponsi B.M.V. Confessoris;;Duplex I classis;;6.1;;
 
-[Rank] (rubrica 1570)
-S. Joseph Sponsi B.M.V. Confessoris;;Duplex;;3;;
-
-[Rule]
-proper
-Psalmi Dominica
-Antiphonas horas
-9 lectiones;
-Psalm5 Vespera=116
-
 [Ant Vespera]
 Or Jacob engendra Joseph, * l’époux de Marie, de laquelle est né Jésus, qui est appelé Christ.;;109
 L’ange Gabriel * fut envoyé par Dieu à un homme du nom de Joseph, de la maison de David, et le nom de la Vierge était Marie.;;110
@@ -107,9 +97,9 @@ R. Et il fleurira éternellement devant le Seigneur.
 Lecture du livre de la Genèse
 !Gen 39:1-5
 1	Joseph fut emmené en Egypte, et Putiphar, officier de Pharaon, chef des gardes, Egyptien, l'acheta des Ismaélites qui l'y avaient amené.
-2	Yahweh fut avec Joseph, qui faisait prospérer toutes choses; il habitait dans la maison de son maître, l'Egyptien.
+2	Yahweh fut avec Joseph, qui faisait prospérer toutes choses ; il habitait dans la maison de son maître, l'Egyptien.
 3	Son maître vit que Yahweh était avec lui et que Yahweh faisait réussir entre ses mains tout ce qu'il faisait.
-4	Joseph trouva donc grâce à ses yeux et il fut employé à son service; son maître l'établit sur sa maison et remit en ses mains tout ce qu'il avait.
+4	Joseph trouva donc grâce à ses yeux et il fut employé à son service ; son maître l'établit sur sa maison et remit en ses mains tout ce qu'il avait.
 5	Dès qu'il l'eut établi sur sa maison et sur tout ce qu'il avait, Yahweh bénit la maison de l'Égyptien à cause de Joseph, et la bénédiction de Yahweh fut sur tout ce qu'il avait, soit à la maison, soit aux champs.
 
 [Responsory1]
@@ -121,9 +111,9 @@ R. Lequel lui donna pouvoir sur tous les prisonniers.
 [Lectio2]
 !Gen 41:37-40
 37	Ces paroles plurent à Pharaon et à tous ses serviteurs.
-38	Et Pharaon dit à ses serviteurs: « Pourrions-nous trouver un homme pareil à celui-ci, ayant en lui l'esprit de Dieu? »
-39	Et Pharaon dit à Joseph: « Puisque Dieu t'a fait connaître toutes ces choses, il n'y a personne qui soit aussi intelligent et sage que toi.
-40	C'est toi qui gouverneras ma maison, et tout mon peuple obéira à ta bouche; par le trône seulement je serai plus grand que toi. »
+38	Et Pharaon dit à ses serviteurs : « Pourrions-nous trouver un homme pareil à celui-ci, ayant en lui l'esprit de Dieu ? »
+39	Et Pharaon dit à Joseph : « Puisque Dieu t'a fait connaître toutes ces choses, il n'y a personne qui soit aussi intelligent et sage que toi.
+40	C'est toi qui gouverneras ma maison, et tout mon peuple obéira à ta bouche ; par le trône seulement je serai plus grand que toi. »
 
 [Responsory2]
 R. La terre d’Égypte étant affamée, le peuple cria vers le roi, demandant des vivres. Il leur répondit :
@@ -133,10 +123,10 @@ R. Allez à Joseph, et faites tout ce qu’il vous dira.
 
 [Lectio3]
 !Gen 41:41-44
-41	Et Pharaon dit à Joseph: « Voici que je t'établis sur tout le pays d'Égypte. »
+41	Et Pharaon dit à Joseph : « Voici que je t'établis sur tout le pays d'Égypte. »
 42	Et Pharaon ôta son anneau de sa main et le mit à la main de Joseph, et il le fit revêtir d'habits de fin lin et lui mit au cou un collier d'or.
-43	Il le fit monter sur le second de ses chars, et on criait devant lui: « A genoux ! » C'est ainsi qu il fut établi sur tout le pays d'Égypte.
-44	Et Pharaon dit à Joseph: « Je suis Pharaon, et sans toi nul ne lèvera la main ni le pied dans tout le pays d'Égypte. »
+43	Il le fit monter sur le second de ses chars, et on criait devant lui : « A genoux ! » C'est ainsi qu il fut établi sur tout le pays d'Égypte.
+44	Et Pharaon dit à Joseph : « Je suis Pharaon, et sans toi nul ne lèvera la main ni le pied dans tout le pays d'Égypte. »
 
 [Responsory3]
 R. Le Seigneur m’a établi comme père du roi et seigneur de toute sa maison ; ne craignez pas ;
@@ -148,14 +138,14 @@ R. C ’est pour votre salut que le Seigneur m’a envoyé devant vous en Égypt
 
 [Lectio4]
 Sermon de saint Bernard, Abbé de Clairvaux.
-!Homélie 2, sur "Il fut envoyé", vers la fin
+!Homélie 2, sur « Il fut envoyé» , vers la fin
 Quel homme fut le bienheureux Joseph, vous pouvez vous en faire idée d’après le titre dont il a mérité d’être honoré, le Seigneur ayant voulu qu’on l’appelât et qu’on le crût père du Fils de Dieu, titre qui n’est vrai cependant, qu’au sens de nourricier. Jugez-en aussi d’après son propre nom qu’on interprète, vous le savez, par accroissement. Rappelez-vous, en même temps, le grand Patriarche qui fut autrefois vendu en Égypte ; et sachez que non seulement celui-ci a été l’héritier de son nom, mais qu’il eut encore sa chasteté, son innocence et sa grâce.
 
 [Responsory4]
 R. Joseph monta -de Nazareth, ville de Galilée, en Judée, dans la ville de David, qui est appelée Bethléem.
-*  Parce qu’il était de la maison et de la famille de David. 
+* Parce qu’il était de la maison et de la famille de David. 
 V. Pour se faire inscrire avec Marie son épouse.
-R.  Parce qu’il était de la maison et de la famille de David. 
+R. Parce qu’il était de la maison et de la famille de David. 
 
 [Lectio5]
 Si ce Joseph, vendu par l’envie de ses frères et conduit en Égypte, préfigura le Christ qui devait être vendu, lu : aussi, saint Joseph fuyant la haine d’Hérode porta le Christ en Égypte. Le premier, pour demeurer fidèle à son maître, refusa de consentir à la passion de la maîtresse (de maison ; le second, reconnaissant une Maîtresse (sainte) dans la vierge devenue mère de son Maître (divin) vécut aussi dans la continence et se montra son fidèle gardien. A l’un fut donnée l’intelligence des songes mystérieux ; à l’autre, il a été accordé d’être le confident des mystères célestes, et d’y coopérer pour sa part.

@@ -9,13 +9,6 @@ Quorum Festum
 Deus, qui primítias fídei in boreálibus Américæ regiónibus sanctórum Mártyrum tuórum Isaáci, Joánnis, eorúmque Sociórum prædicatióne et sánguine consecrásti: concéde propítius; ut, eórum intercessióne, flórida christianórum seges ubíque in dies augeátur. 
 $Per Dominum
 
-[Commemoratio]
-!Commemoratio Ss. Cypriani et Justinæ Martyrum
-@Commune/C3:Oratio proper
-$Oremus
-Beatórum Mártyrum Cypriáni et Justínæ nos, Dómine, fóveant continuáta præsídia: quia non désinis propítius intuéri, quos tálibus auxíliis concésseris adjuvári.
-$Per Dominum
-
 [Lectio4]
 Ex iis Societatis Jesu sodalibus, qui Ecclesiæ in America boreali exordia medio sæculo septimo maxime illustrarunt, octo purissimas hostias sibi elegit Deus, ut fidei semina earum sanguine irrigata in uberiores segetes deínde succrescerent. Omnes hi Martyres, in Gallia nati et, præter duos laicos, sacerdotio aucti, in Missionem Canadensem, quæ Novæ Galliæ tunc vocabatur, a Superioribus missi, post innumeros ex urbe Quebecensi per varias illas immensas regiones apostolicos excursus, asperrimosque labores ob unam eamdemque religionis causam, etsi non uno eodemque tempore nec loco, crudelissime necati sunt. Horum veluti duces ac magistri merito censentur Joannes de Brebeuf, Condæi in diocesi olim Baiocensi nunc Constantiensi nobili genere ortus, et Isaacus Jogues, aurelianensis, viri strenuo et apostolico zelo incensi, mortificationi maxime dediti, cum Deo in oratione conjunctissimi, cælestibus étiam visionibus quandoque illustrati. Ab iis haud absimiles erant quatuor socii sacerdotes Antonius Daniel, dieppensis, Gabriel Lalemant et Carolus Garnier, parisienses, Natalis Chabanel, mimatensis; qui omnes variis in pagis potissimum inter Hurones sacris muneribus fideliter fungebantur.
 
@@ -45,6 +38,10 @@ R. Quoniam donum et pax est electis Dei.
 &Gloria
 R. Quoniam donum et pax est electis Dei.
 
+[Lectio94]
+Ex iis Societátis Jesu sodálibus, qui médio sǽculo décimo séptimo aspérrimam missiónem Novæ Gálliæ excoléntes, Ecclésiæ  primórdia in América Septentrionáli summópere illustrárunt, octo puríssimas hóstias sibi elégit Deus, in hodiérnis regiónibus Neo-Eboracénsi et Ontário in Cánada immolátas. In his véluti duces et magístri habéntur Joánnes de Brébeuf et Isaácus Jogues, viri strénui et apostólico animárum stúdio incénsi, mortificatióni máxime déditi, cum Deo in oratióne coniunctíssimi. Haud dispáribus virtútibus ornabántur sacerdótes Antónius Daniel, Gábriel Lalemant, Cárolus Garnier et Natális Chabanel, necnon Renátus Goupil et Joánnis de la Lande, Patrum adiutóres.  Vitam ob indigenárum Eurónum índolem miserrimámque vivéndi ratiónem, martýrio símilem, omnes cruénta more propter unam religiónis causam, etsi non uno loco nec témpore, cumulárunt; quidam vero torménta vix credibília ádeo invícta fortitúdine pertulérunt, ut ipsi bárbari carnífices eos admiraréntur. Quos Pius undécimus Beatórum, ac mox miráculis claros Sanctórum número adscrípsit.
+&teDeum
+
 [Lectio7]
 Léctio sancti Evangélii secúndum Lucam
 !Luc 6:17-23
@@ -73,8 +70,4 @@ R. Mercedem laboris ego reddam vobis.
 
 [Lectio9]
 Præterea felices omnes qui hanc scalam Jacob, superioribus gradibus octo distinctam, in hunc usque diem ascendunt, relictis omnibus impedimentis, ita ut capitales hostes, mundum, carnem ac satanam, cotidie vincant sibique virtutum studio gradum faciant ad beatam immortalitatem. Verum longe feliciores et illi, qui pugnandi et vincendi fecere finem et, ipso ascendendi labore confecto, ad certaminis coronam pervenerunt jamque, veluti rude donati et emeriti milites, quiete summa potiuntur, et in cælesti tabernaculo habitant, mercede amplissima cumulati. Nec dubium quin sancti Martyres piique Doctores præ ceteris florescant electis in perpetuas æternitates, quoniam ob virtutes heroicas aureolam, sicut Theologi vocant, et excellentem lauream peculiari privilegio consequentur.
-&teDeum
-
-[Lectio94]
-Ex iis Societátis Jesu sodálibus, qui médio sǽculo décimo séptimo aspérrimam missiónem Novæ Gálliæ excoléntes, Ecclésiæ  primórdia in América Septentrionáli summópere illustrárunt, octo puríssimas hóstias sibi elégit Deus, in hodiérnis regiónibus Neo-Eboracénsi et Ontário in Cánada immolátas. In his velúti duces et magístri habéntur Joánnes de Brébeuf et Isaácus Jogues, viri strénui et apostólico animárum stúdio incénsi, mortificatióni máxime déditi, cum Deo in oratióne coniunctíssimi. Haud dispáribus virtútibus ornabántur sacerdótes Antónius Daniel, Gábriel Lalemant, Cárolus Garnier et Natális Chabanel, necnon Renátus Goupil et Joánnis de la Lande, Patrum adiutóres.  Vitam ob indigenárum Eurónum índolem miserrimámque vivéndi rátionem, martýrio símilem, omnes cruénta more propter unam religiónis causam, etsi non uno loco nec témpore, cumulárunt; quidam vero torménta vix credibília ádeo invícta fortitúdine pertulérunt, ut ipsi bárbari carnífices eos admiraréntur. Quos Pius undécimus Beatórum, ac mox miráculis claros Sanctórum número adscrípsit.
 &teDeum

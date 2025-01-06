@@ -69,6 +69,18 @@ R. He clothed him with a robe of glory.
 [Ant 1]
 O thou Priest and Bishop, * thou worker of mighty works, thou good shepherd over God’s people, pray for us unto the Lord.
 
+[Oratio]
+v. Grant, we beseech thee, almighty God, that the venerable feast of N. thy blessed Confessor and Bishop may increase our devotion and promote our salvation. 
+$Per Dominum.
+
+[Oratio1]
+v. Hear, O Lord, we beseech thee, the prayers which we offer thee on this the solemn feast-day of thy blessed Confessor and bishop N., and, for the sake of him who so nobly served thee, forgive us our trespasses.
+$Per Dominum.
+
+[Oratio2]
+v. O God, who didst give blessed N. to be thy people’s minister in eternal salvation; grant, we pray, that we who have him for teacher of life here on earth, may also deserve now that he is in heaven, to have him for an advocate.
+$Per Dominum.
+
 [Invit]
 The Lord, the King of Confessors, * O come, let us worship.
 
@@ -76,16 +88,18 @@ The Lord, the King of Confessors, * O come, let us worship.
 Blessed is the man * that doth meditate in the law of the Lord; his delight is therein day and night, and whatsoever he doeth shall prosper.;;1
 Blessed and holy is he * that putteth his trust in the Lord, that declareth the decree of the Lord, and is set upon His holy hill.;;2
 Thou, O Lord, art my glory, * Thou art a shield for me; Thou art the Lifter-up of mine head, and Thou hast heard me out of thy holy hill.;;3
-V. The Lord loved him and beautified him.
-R. He clothed him with a robe of glory.
 When His holy one called, * the Lord heard him, yea, the Lord heard him, and gave him peace.;;4
 Let all those that put their trust in thee rejoice, O Lord, for Thou hast blessed the righteous; * Thou hast compassed him with thy favour as with a shield.;;5
 O Lord, our Ruler, * how excellent is thy Name in all the earth, Who hast crowned thine holy one with glory and honour, and made him to have dominion over the works of thy hands.;;8
-V. The Lord hath chosen him for a Priest unto Himself.
-R. To offer up unto Him the sacrifice of praise.
 Lord, this thy Saint * shall dwell in thy tabernacle, and this that hath worked righteousness shall abide upon thy holy hill.;;14
 He asked life of thee, * and Thou, O Lord, gavest it; honour and great majesty hast Thou laid upon him; Thou hast set a crown of precious stones upon his head.;;20
 He shall receive * a blessing from the Lord, and mercy from the God of his salvation, for this is the generation of them that seek the Lord.;;23
+
+[Nocturn 2 Versum]
+V. The Lord hath chosen him for a Priest unto Himself.
+R. To offer up unto Him the sacrifice of praise.
+
+[Nocturn 3 Versum]
 V. Thou art a Priest for ever.
 R. After the order of Melchisedek.
 
@@ -240,17 +254,44 @@ R. And showed him the kingdom of God.
 [Ant 2]
 Well done, thou good and faithful servant * thou hast been faithful over a few things, I will make thee ruler over many things, saith the Lord.
 
-[Oratio]
-v. Grant, we beseech thee, almighty God, that the venerable feast of N. thy blessed Confessor and Bishop may increase our devotion and promote our salvation. 
-$Per Dominum.
+[Lectio Prima]
+!Sir 45:19-20
+v. To execute the office of the priesthood, and to have praise, and to glorify his people in his name. He chose him out of all men living, to offer sacrifice to God, incense, and a good savour.
 
-[Oratio1]
-v. Hear, O Lord, we beseech thee, the prayers which we offer thee on this the solemn feast-day of thy blessed Confessor and bishop N., and, for the sake of him who so nobly served thee, forgive us our trespasses.
-$Per Dominum.
+[Responsory Breve Tertia]
+R.br. The Lord loved him, * and beautified him.
+R. The Lord loved him, * and beautified him.
+V. He clothed him with a robe of glory.
+R. And beautified him.
+&Gloria
+R. The Lord loved him, * and beautified him.
 
-[Oratio2]
-v. O God, who didst give blessed N. to be thy people’s minister in eternal salvation; grant, we pray, that we who have him for teacher of life here on earth, may also deserve now that he is in heaven, to have him for an advocate.
-$Per Dominum.
+[Capitulum Sexta]
+!Sir 44:20; 44:22
+v. There was not found the like to him in glory, who kept the law of the most High, and was in covenant with him. Therefore by an oath he gave him glory in his posterity, that he should increase in his people.
+$Deo gratias
+
+[Responsory Breve Sexta]
+R.br. The Lord hath chosen him * for a Priest unto Himself.
+R. The Lord hath chosen him * for a Priest unto Himself.
+V. To offer up unto Him the sacrifice of praise.
+R. For a Priest unto Himself.
+&Gloria
+R. The Lord hath chosen him * for a Priest unto Himself.
+
+[Responsory Breve Nona]
+R.br. Thou art a Priest * for ever.
+R. Thou art a Priest * for ever.
+V. After the order of Melchisedek.
+R. For ever.
+&Gloria
+R. Thou art a Priest * for ever.
+
+[Ant 3 summi Pontificis]
+While he was supreme Pontiff, * he feared not earthly powers, but gloriously went his way to the heavenly kingdom.
+
+[Ant 3]
+The Lord loved him * and beautified him. He clothed him with a robe of glory, and crowned him at the gates of Paradise.
 
 [Oratio9]
 v. Look forgivingly on thy flock, Eternal Shepherd, and keep it in thy constant protection, by the intercession of blessed N. thy (Martyr and) Sovereign Pontiff, whom thou didst constitute Shepherd of the whole Church.
@@ -259,54 +300,6 @@ $Per Dominum
 [Oratio91]
 v. Look forgivingly on thy flock, Eternal Shepherd, and keep it in thy constant protection, by the intercession of blessed N. and N. thy (Martyrs and) Sovereign Pontiffs, whom thou didst constitute Shepherds of the whole Church.
 $Per Dominum
-
-[Lectio Prima]
-!Sir 45:19-20
-v. To execute the office of the priesthood, and to have praise, and to glorify his people in his name. He chose him out of all men living, to offer sacrifice to God, incense, and a good savour.
-
-[Responsory Tertia]
-R.br. The Lord loved him, * and beautified him.
-R. The Lord loved him, * and beautified him.
-V. He clothed him with a robe of glory.
-R. And beautified him.
-&Gloria
-R. The Lord loved him, * and beautified him.
-_
-V. The Lord hath chosen him for a Priest unto Himself.
-R. To offer up unto Him the sacrifice of praise.
-
-[Capitulum Sexta]
-!Sir 44:20; 44:22
-v. There was not found the like to him in glory, who kept the law of the most High, and was in covenant with him. Therefore by an oath he gave him glory in his posterity, that he should increase in his people.
-$Deo gratias
-
-[Responsory Sexta]
-R.br. The Lord hath chosen him * for a Priest unto Himself.
-R. The Lord hath chosen him * for a Priest unto Himself.
-V. To offer up unto Him the sacrifice of praise.
-R. For a Priest unto Himself.
-&Gloria
-R. The Lord hath chosen him * for a Priest unto Himself.
-_
-V. Thou art a Priest for ever.
-R. After the order of Melchisedek.
-
-[Responsory Nona]
-R.br. Thou art a Priest * for ever.
-R. Thou art a Priest * for ever.
-V. After the order of Melchisedek.
-R. For ever.
-&Gloria
-R. Thou art a Priest * for ever.
-_
-V. The Lord guided the just in right paths.
-R. And showed him the kingdom of God.
-
-[Ant 3]
-The Lord loved him * and beautified him. He clothed him with a robe of glory, and crowned him at the gates of Paradise.
-
-[Ant 3 summi Pontificis]
-While he was supreme Pontiff, * he feared not earthly powers, but gloriously went his way to the heavenly kingdom.
 
 [Lectio1 in 2 loco]
 Lesson from the book of Ecclesiasticus

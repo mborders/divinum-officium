@@ -1,11 +1,11 @@
 [Rank]
 In Transfiguratione Domini Nostri Jesu Christi;;Duplex II classis;;5.1;;
 
-[Rank] (rubrica Trident)
-In Transfiguratione Domini Nostri Jesu Christi;;Duplex majus;;4.1;;
-
 [Rank] (rubrica 196)
 In Transfiguratione Domini Nostri Jesu Christi;;Duplex II classis;;5;;
+
+[Rank] (rubrica tridentina)
+In Transfiguratione Domini Nostri Jesu Christi;;Duplex majus;;4.1;;
 
 [Rule]
 proper
@@ -57,7 +57,7 @@ Cum Patre, et almo Spíritu,
 In sempitérna sǽcula.
 Amen.
 
-[Doxology](rubrica monastica aut rubrica 1570)
+[Doxology] (rubrica monastica aut rubrica 1570)
 @Psalterium/Doxologies:EpiT
 
 [Versum 1]
@@ -70,13 +70,6 @@ Christus Jesus, * splendor Patris et figúra substántiæ ejus, portans ómnia v
 [Oratio]
 Deus, qui fídei sacraménta in Unigéniti tui gloriósa Transfiguratióne patrum testimónio roborásti, et adoptiónem filiórum perféctam, voce delápsa in nube lúcida, mirabíliter præsignásti: concéde propítius; ut ipsíus Regis glóriæ nos coherédes effícias, et ejúsdem glóriæ tríbuas esse consórtes.
 $Per eumdem
-
-[Commemoratio 2]
-!Commemoratio Ss. Xysti, Felicissimi et Agapiti Martyrum
-@Commune/C3:Oratio proper
-$Oremus
-v. Deus, qui nos concédis sanctórum Mártyrum tuórum Xysti, Felicíssimi et Agapíti natalícia cólere: da nobis in ætérna beatitúdine de eórum societáte gaudére.
-$Per Dominum
 
 [Invit]
 Summum Regem glóriæ, * Christum adorémus.
@@ -96,6 +89,7 @@ Gloriósa * dicta sunt de te, cívitas Dei.;;86
 V. Glória et honóre coronásti eum, Dómine.
 R. Et constituísti eum super ópera mánuum tuárum.
 Thabor et Hermon * in nómine tuo exsultábunt: tuum brácchium cum poténtia.;;88
+(sed rubrica 1960) Thabor et Hermon * in nómine tuo exsultábunt: tuum brácchium cum poténtia.;;88(2-19)
 Lux orta est * justo, et rectis corde lætítia.;;96
 Confessiónem * et decórem índuit, amíctus lúmine sicut vestiménto.;;103
 V. Magna est glória ejus in salutári tuo.
@@ -200,11 +194,6 @@ R. Ad illuminatiónem sciéntiæ claritátis Dei, in fácie Jesu Christi.
 &Gloria
 R. Ad illuminatiónem sciéntiæ claritátis Dei, in fácie Jesu Christi.
 
-[Lectio93]
-!Pro Ss. Xysto II Papa, Felicissimo et Agapito Martyribus
-Xystus secúndus, Atheniénsis, ex philósopho Christi discípulus, in persecutióne Valeriáni accusátus quod públice Christum prædicáret, comprehénsus tráhitur in templum Martis, propósita ei capitáli pœna, nisi illi simulácro sacrificáret. Qua impietáte constantíssime recusáta, cum ad martýrium ducerétur, occurrénti sancto Lauréntio et dolénter in hunc modum interrogánti, Quo progréderis sine fílio, pater? quo, sacérdos sancte, sine minístro próperas? respóndit: Non ego te désero, fili, majóra te manent pro Christi fide certámina: post tríduum me sequéris, sacerdótem levíta; intérea, si quid in thesáuris habes, paupéribus distríbue. Eódem ígitur die interféctus est una cum Felicíssimo et Agapíto diáconis, Januário, Magno, Vincéntio et Stéphano subdiáconis; et in cœmetério Callísti sepúltus octávo Idus Augústi, céteri vero in cœmetério Prætextáti. Sedit menses úndecim, dies duódecim. Quo témpore hábuit ordinatiónem mense Decémbri, creátis presbýteris quátuor, diáconis septem, epíscopis duóbus.
-&teDeum
-
 [Lectio9]
 Tu vero Matthǽi philosophíam consídera, qui non celávit nómina eórum qui præpósiti fúerant. Quod et Joánnes sǽpius facit, cum exímias Petri laudes veríssime ac diligentíssime descríbat. Nullum enim in hoc Apostolórum consórtio livor aut inánis glória locum habébat. Primos ígitur Apostolórum seórsum assúmpsit. Quam ob rem eos solos accépit? Quia excellentióres céteris vidélicet erant. Cur autem non íllico, sed post sex dies hoc fecit? Ne céteri scílicet discípuli seu hómines moveréntur; qua de re nec eos nominávit, quos acceptúrus erat.
 &teDeum
@@ -220,27 +209,6 @@ R. Ipsa me deduxérunt, et adduxérunt in montem sanctum tuum et in tabernácula
 !Phil 3:20-21
 v. Salvatórem exspectámus Dóminum nostrum Jesum Christum, qui reformábit corpus humilitátis nostræ configurátum córpori claritátis suæ.
 $Deo gratias
-
-[HymnusM Laudes]
-v. Amor Jesu dulcíssime,
-Quando cor nostrum vísitas,
-Pellis mentis calíginem,
-Et nos reples dulcédine.
-_
-Quam felix est quem sátias!
-Consors patérnæ déxteræ,
-Tu vere lumen pátriæ,
-Quod omnem sensum súperat.
-_
-Splendor patérnæ glóriæ,
-Incomprehénsa bónitas,
-Amóris tui cópiam
-Da nobis per præséntiam.
-_
-Glória tibi Dómine,
-Qu[i] apparuísti hódie,
-Cum Patr[e] et Sancto Spíritu,
-In sempitérna sǽcula. Amen.
 
 [Hymnus Laudes]
 v. Lux alma, Jesu, méntium,
@@ -263,6 +231,27 @@ Qui te revélas párvulis,
 Cum Patre, et almo Spíritu,
 In sempitérna sǽcula.
 Amen.
+
+[HymnusM Laudes]
+v. Amor Jesu dulcíssime,
+Quando cor nostrum vísitas,
+Pellis mentis calíginem,
+Et nos reples dulcédine.
+_
+Quam felix est quem sátias!
+Consors patérnæ déxteræ,
+Tu vere lumen pátriæ,
+Quod omnem sensum súperat.
+_
+Splendor patérnæ glóriæ,
+Incomprehénsa bónitas,
+Amóris tui cópiam
+Da nobis per præséntiam.
+_
+Glória tibi Dómine,
+Qu[i] apparuísti hódie,
+Cum Patr[e] et Sancto Spíritu,
+In sempitérna sǽcula. Amen.
 
 [Versum 2]
 V. Coróna áurea super caput ejus.

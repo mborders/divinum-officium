@@ -1,4 +1,6 @@
 [Rank]
+In Vigilia Ss. Petri et Pauli Apostolorum;;Vigilia;;1.5
+(sed rubrica 196)
 In Vigilia Ss. Petri et Pauli Apostolorum;;Duplex II classis;;5
 
 [Rule]
@@ -9,8 +11,7 @@ no Te Deum
 Laudes 2
 
 [Oratio]
-Prǽsta, quǽsumus, omnípotens Deus: ut nullis nos permíttas perturbatiónibus~
-cóncuti; quos in apostólicæ confessiónis petra solidásti.
+Prǽsta, quǽsumus, omnípotens Deus: ut nullis nos permíttas perturbatiónibus cóncuti; quos in apostólicæ confessiónis petra solidásti.
 $Per Dominum
 
 [Lectio1]

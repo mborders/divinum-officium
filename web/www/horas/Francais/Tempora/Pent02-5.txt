@@ -1,7 +1,7 @@
 [Rank]
 Sacratissimi Cordis Domini Nostri Jesu Christi;;Duplex I classis cum Octava privilegiata III ordinis;;6
 
-[Rank] (rubrica 1960)
+[Rank] (rubrica 196)
 Sacratissimi Cordis Domini Nostri Jesu Christi;;Duplex I classis;;6
 
 [Rule]
@@ -62,6 +62,16 @@ Le feu, * Je suis venu l’apporter sur la terre, et que désiré-je, sinon qu�
 Dieu, dans le Cœur de Votre Fils blessé par nos péchés, daignez nous prodiguer les trésors infinis de son amour : faites, nous vous en supplions, qu’en Lui rendant l’hommage de notre dévotion et de notre piété, nous remplissions aussi dignement envers Lui le devoir de la réparation.
 $Per eumdem
 
+[Octava 1]
+!Mémoire de l'Octave du très Saint Cœur de notre Seigneur Jésus Christ
+v. Le feu, * Je suis venu l’apporter sur la terre, et que désiré-je, sinon qu’il soit allumé ?
+_
+V. Prenez sur vous mon joug et apprenez de moi.
+R. Que je suis doux et humble de Cœur.
+_
+Dieu, dans le Cœur de Votre Fils blessé par nos péchés, daignez nous prodiguer les trésors infinis de son amour : faites, nous vous en supplions, qu’en Lui rendant l’hommage de notre dévotion et de notre piété, nous remplissions aussi dignement envers Lui le devoir de la réparation.
+$Per eumdem
+
 [Invit]
 Le Cœur de Jésus blessé par son amour pour nous, * Venez, adorons.
 
@@ -118,7 +128,7 @@ R. Il a donné une nourriture à ceux qui le craignent.
 Du Prophète Jérémie
 !Jer 24:5-7
 5 Voici ce que dit le Seigneur, le Dieu d'Israël : De même que ces figues sont bonnes, ainsi Je distinguerai pour leur bien les captifs de Juda, que J'ai envoyés de ce lieu dans le pays des Chaldéens.
-6 Je les regarderai d'un œil favorable, et Je les ramènerai dans ce pays ; Je les bâtirai, et Je ne les détruirai pas; Je les planterai, et Je ne les arracherai pas.
+6 Je les regarderai d'un œil favorable, et Je les ramènerai dans ce pays ; Je les bâtirai, et Je ne les détruirai pas ; Je les planterai, et Je ne les arracherai pas.
 7 Je leur donnerai un cœur pour qu'ils connaissent que Je suis le Seigneur ; ils seront Mon peuple, et Je serai leur Dieu, parce qu'ils reviendront à Moi de tout leur cœur.
 
 [Responsory1]
@@ -129,7 +139,7 @@ R. Afin qu’ils ne se retirent pas de moi.
 
 [Lectio2]
 !Jer 30:18-19 ; 30:21-24
-18 Ainsi parle le Seigneur : Voici, Je ferai revenir les captifs des tentes de Jacob ; J'aurai compassion de ses toits; la ville sera rebâtie sur sa colline, et le temple sera rétabli tel qu'il était;
+18 Ainsi parle le Seigneur : Voici, Je ferai revenir les captifs des tentes de Jacob ; J'aurai compassion de ses toits ; la ville sera rebâtie sur sa colline, et le temple sera rétabli tel qu'il était;
 19 du milieu d'eux sortiront les louanges et les cris de joie.
 21 Son chef sera tiré de son sein, et un Prince sortira du milieu de lui ; Je L'appliquerai Moi-même, et Il S'approchera de Moi. Car quel est celui qui appliquera son cœur à s'approcher de Moi ? dit le Seigneur.
 22 Vous serez Mon peuple, et Je serai votre Dieu.
@@ -195,7 +205,7 @@ En ce temps-là : Ce jour étant celui de la Préparation, afin que les corps ne
 _
 Homélie de saint Bonaventure, Évêque
 !Livre de l'Arbre de Vie, num. 30
-Une disposition de Dieu permit à un des soldats d’ouvrir d’un coup de lance le cœur sacré de Jésus. Ainsi, l’Église serait tirée du côté du Christ endormi sur la croix. En même temps, serait réalisée la parole de l’Écriture : "Ils regarderont vers celui qu’ils ont transpercé". Le sang et l’eau, prix de notre salut, s’écoulèrent de cette blessure du cœur, comme d’une source mystérieuse, pour donner aux sacrements de l’Église la puissance de conférer la vie de la grâce et pour être le breuvage de "cette source d’eau vive jaillissant en vie éternelle" que goûteraient les âmes qui vivent dans le Christ. Lève-toi donc, ô amie du Christ, ne cesse pas de veiller, applique ici tes lèvres pour "puiser l’eau aux sources du salut".
+Une disposition de Dieu permit à un des soldats d’ouvrir d’un coup de lance le cœur sacré de Jésus. Ainsi, l’Église serait tirée du côté du Christ endormi sur la croix. En même temps, serait réalisée la parole de l’Écriture : « Ils regarderont vers celui qu’ils ont transpercé» . Le sang et l’eau, prix de notre salut, s’écoulèrent de cette blessure du cœur, comme d’une source mystérieuse, pour donner aux sacrements de l’Église la puissance de conférer la vie de la grâce et pour être le breuvage de « cette source d’eau vive jaillissant en vie éternelle» que goûteraient les âmes qui vivent dans le Christ. Lève-toi donc, ô amie du Christ, ne cesse pas de veiller, applique ici tes lèvres pour « puiser l’eau aux sources du salut» .
 
 [Responsory7]
 R. Moi, quand J’aurai été élevé de terre,
@@ -270,6 +280,16 @@ R. Aux sources du Sauveur.
 [Ant 2]
 Ces choses ont été faites * afin que l’Ecriture fût accomplie : Ils contempleront Celui qu’ils ont transpercé.
 
+[Octava 2]
+!Mémoire de l'Octave du très Saint Cœur de notre Seigneur Jésus Christ
+v. Ces choses ont été faites * afin que l’Ecriture fût accomplie : Ils contempleront Celui qu’ils ont transpercé.
+_
+V. Vous puisez avec joie les eaux.
+R. Aux sources du Sauveur.
+_
+Dieu, dans le Cœur de Votre Fils blessé par nos péchés, daignez nous prodiguer les trésors infinis de son amour : faites, nous vous en supplions, qu’en Lui rendant l’hommage de notre dévotion et de notre piété, nous remplissions aussi dignement envers Lui le devoir de la réparation.
+$Per eumdem
+
 [Lectio Prima]
 !Eph 3:17-19
 v. Enracinés et fondés dans la charité, puissiez-vous comprendre, avec tous les saints, quelle est la largeur et la longueur, la hauteur et la profondeur, connaître cette charité du Christ qui surpasse toute connaissance, de sorte que vous soyez remplis de toute la plénitude de Dieu.
@@ -334,26 +354,6 @@ R. Aux sources du Sauveur.
 [Oratio 3]
 Daignez accorder, Dieu tout-puissant : à nous qui nous glorifions dans le très saint Cœur de votre Fils bien aimé, et qui célébrons les bienfaits solennels de sa charité envers nous ; que nous trouvions notre joie dans leur accomplissement et dans les fruits qu’ils ont produits.
 $Per Dominum
-
-[Octava 1]
-!Mémoire de l'Octave du très Saint Cœur de notre Seigneur Jésus Christ
-v. Le feu, * Je suis venu l’apporter sur la terre, et que désiré-je, sinon qu’il soit allumé ?
-_
-V. Prenez sur vous mon joug et apprenez de moi.
-R. Que je suis doux et humble de Cœur.
-_
-Dieu, dans le Cœur de Votre Fils blessé par nos péchés, daignez nous prodiguer les trésors infinis de son amour : faites, nous vous en supplions, qu’en Lui rendant l’hommage de notre dévotion et de notre piété, nous remplissions aussi dignement envers Lui le devoir de la réparation.
-$Per eumdem
-
-[Octava 2]
-!Mémoire de l'Octave du très Saint Cœur de notre Seigneur Jésus Christ
-v. Ces choses ont été faites * afin que l’Ecriture fût accomplie : Ils contempleront Celui qu’ils ont transpercé.
-_
-V. Vous puisez avec joie les eaux.
-R. Aux sources du Sauveur.
-_
-Dieu, dans le Cœur de Votre Fils blessé par nos péchés, daignez nous prodiguer les trésors infinis de son amour : faites, nous vous en supplions, qu’en Lui rendant l’hommage de notre dévotion et de notre piété, nous remplissions aussi dignement envers Lui le devoir de la réparation.
-$Per eumdem
 
 [Octava 3]
 !Mémoire de l'Octave du très Saint Cœur de notre Seigneur Jésus Christ

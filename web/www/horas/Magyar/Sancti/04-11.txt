@@ -4,11 +4,6 @@ S. Leonis I. Papee Confessoris et Ecclesise Doctoris;;Duplex;;3;;vide C4a
 [Name]
 Leo
 
-[Rule]
-vide C4a;mtv
-9 lectiones
-OPapaD=Leo;
-
 [Lectio1]
 Olvasmány szent Péter apostol első leveléből
 !1 Pet 1:1-5
@@ -33,7 +28,7 @@ Olvasmány szent Péter apostol első leveléből
 13 Ezért övezzétek fel gondolkodástokat, legyetek józanok, mindenestül reméljetek abban a kegyelemben, amelyet Jézus Krisztus megjelenése hoz nektek.
 14 Mivel engedelmes gyermekek vagytok, életeteket ne szabjátok múltbeli vágyaitokhoz, amikor még tudatlanságban éltetek,
 15 hanem mint ahogy szent, aki meghívott benneteket, legyetek ti is szentek bármilyen körülmények között;
-16 mert meg van írva: "Szentek legyetek, amint én is szent vagyok."
+16 mert meg van írva: „Szentek legyetek, amint én is szent vagyok.”
 17 Ha Atyának hívjátok azt, aki részrehajlás nélkül ítél meg mindenkit a tettei alapján, éljetek istenfélelemben zarándoklástok idején.
 18 Hisz tudjátok, hogy nem veszendő ezüstön vagy aranyon szabadultatok ki az atyáitoktól rátok hagyományozott értéktelen életmódból,
 19 hanem Krisztusnak, a hibátlan és egészen tiszta báránynak a drága vére árán.
@@ -43,7 +38,7 @@ Olvasmány szent Péter apostol első leveléből
 [Lectio7]
 Evangélium szent Máté Apostol kőnyvéből
 !Matt 16:13-19
-Abban az időben Jézus Fülöp Cezáreájának vidékére ért, megkérdezte tanítványaitól: "Kinek tartják az emberek az Emberfiát?"  És így tovább.
+Abban az időben Jézus Fülöp Cezáreájának vidékére ért, megkérdezte tanítványaitól: „Kinek tartják az emberek az Emberfiát?”  És így tovább.
 _
 Homily by Pope St Leo (the Great)
 !2nd on the anniversary of his own election.

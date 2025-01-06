@@ -1,17 +1,12 @@
 [Name]
 Commun des Apôtres au temps Pascal
 
-[Rule]
-Psalmi Dominica
-Antiphonas horas
-Una Antiphona
-
 [Ant Vespera]
-Vos saints, * Seigneur, fleuriront comme le lis, alléluia : et ils seront devant Vous comme un parfum de baume, alléluia.;;109
-Dans les royaumes célestes * est l'habitation des saints, alléluia : et leur repos est pour l'éternité, alléluia.;;110
-Dans le sanctuaire * vos saints clamaient, Seigneur, alléluia, alléluia, alléluia.;;111
-Esprits et âmes * des justes, chantez un hymne à notre Dieu, alléluia, alléluia.;;112
-Les justes resplendiront * comme le soleil devant la face de Dieu, alléluia.;;116
+Vos saints, * Seigneur, fleuriront comme le lis, alléluia : et ils seront devant Vous comme un parfum de baume, alléluia.
+Dans les royaumes célestes * est l'habitation des saints, alléluia : et leur repos est pour l'éternité, alléluia.
+Dans le sanctuaire * vos saints clamaient, Seigneur, alléluia, alléluia, alléluia.
+Esprits et âmes * des justes, chantez un hymne à notre Dieu, alléluia, alléluia.
+Les justes resplendiront * comme le soleil devant la face de Dieu, alléluia.
 
 [Hymnus Vespera]
 {:H-Tristeserantapostoli:}v. Tristes étaient les Apôtres
@@ -55,23 +50,22 @@ La lumière éternelle * brillera pour Vos saints, Seigneur et leur durée sera 
 [Invit]
 Au Seigneur, Roi des Apôtres * Venez, offrons l’adoration, allelúia.
 
-[Hymnus Matutinum]
-@Commune/C1p:Hymnus Vespera
-
 [Ant Matutinum]
 Les justes se lèveront en grande assurance contre ceux qui les ont mis dans l’angoisse, alléluia.;;18
 ;;33
 ;;44
-V. Saints et justes, réjouissez-vous dans le Seigneur, allelúia.
-R. Dieu vous a choisis pour son héritage, allelúia.
 Voyez comment ils ont été comptés parmi les fils de Dieu, et partagent le sort des Saints.;;46
 ;;60
 ;;63
-V. Une lumière perpétuelle brillera pour vos Saints, Seigneur, allelúia.
-R. Et une éternité de jours, allelúia.
 Une lumière perpétuelle brillera pour vos Saints, Seigneur, et une éternité de jours, allelúia.;;74
 ;;96
 ;;98
+
+[Nocturn 2 Versum]
+V. Une lumière perpétuelle brillera pour vos Saints, alléluia.
+R. Et une éternité de jours, alléluia.
+
+[Nocturn 3 Versum]
 V. Une allégresse éternelle sera sur leurs têtes, allelúia.
 R. Ils obtiendront joie et exultation, allelúia.
 
@@ -156,13 +150,6 @@ R. Et comme le lait, ils sont masse blanche, alléluia, alléluia.
 [Lectio9]
 @Commune/C1
 
-[Ant Laudes]
-Vos saints, * Seigneur, fleuriront comme le lis, alléluia : et ils seront devant Vous comme un parfum de baume, alléluia.
-Dans les royaumes célestes * est l'habitation des saints, alléluia : et leur repos est pour l'éternité, alléluia.
-Dans le sanctuaire * vos saints clamaient, Seigneur, alléluia, alléluia, alléluia.
-Esprits et âmes * des justes, chantez un hymne à notre Dieu, alléluia, alléluia.
-Les justes resplendiront * comme le soleil devant la face de Dieu, alléluia.
-
 [Capitulum Laudes]
 !Sap 5:1
 v. Les justes seront debout avec une grande assurance devant ceux qui les ont tourmentés et qui leur ont arraché le fruit de leurs travaux.
@@ -202,14 +189,14 @@ Lorsque déjà les saints Apôtres
 Des yeux de leur corps, voient le Christ.
 _
 Il leur a montré les blessures,
-Qui resplendissent dans sa chair:
-Le Seigneur est ressuscité, ,
+Qui resplendissent dans sa chair :
+Le Seigneur est ressuscité,
 Ils le proclament devant tous.
 _
 Ô Christ, roi de haute clémence,
 Deviens le maître de nos cœurs,
 Pour que nous te rendions sans fin
-Les louanges qui te sont dues..
+Les louanges qui te sont dues.
 _
 Demeure, ô Jésus, pour nos âme,
 La Joie pascale à tout jamais ;
@@ -233,57 +220,34 @@ Filles de Jérusalem, * venez et voyez les Martyrs avec les couronnes dont Dieu 
 !Rom 8:28
 v. Nous savons, du reste, que toutes choses concourent au bien de ceux qui aiment Dieu, de ceux qui sont appelés selon son dessein.
 
-[Responsory Tertia]
+[Responsory Breve Tertia]
 R.br. Saints et justes, réjouissez-vous dans le Seigneur, * alléluia, alléluia.
 R. Saints et justes, réjouissez-vous dans le Seigneur, * alléluia, alléluia.
 V. Dieu vous a choisis pour son héritage.
 R. Allelúia, allelúia.
 &Gloria
 R. Saints et justes, réjouissez-vous dans le Seigneur, * alléluia, alléluia.
-_
-V. Une lumière perpétuelle brillera pour vos Saints, alléluia.
-R. Et une éternité de jours, alléluia.
 
 [Capitulum Sexta]
 !Sap. 5:5
 v. Voyez comme ils sont comptés parmi les fils de Dieu et partagent le sort des Saints.
 $Deo gratias
 
-[Responsory Sexta]
+[Responsory Breve Sexta]
 R.br. Une lumière perpétuelle brillera pour vos Saints, Seigneur, * Alléluia, alléluia.
 R. Une lumière perpétuelle brillera pour vos Saints, Seigneur, * Alléluia, alléluia.
 V. Et une éternité de jours.
 R. Allelúia, allelúia.
 &Gloria
 R. Une lumière perpétuelle brillera pour vos Saints, Seigneur, * Alléluia, alléluia.
-_
-V. Une allégresse éternelle sera sur leurs têtes, alléjuia.
-R. Ils obtiendront joie et exultation, alléluia.
 
-[Capitulum Nona]
-@:Lectio Prima
-$Deo gratias
-
-[Responsory Nona]
+[Responsory Breve Nona]
 R.br. Une allégresse éternelle sera sur leurs têtes. Alléluia, alléluia.
 R. Une allégresse éternelle sera sur leurs têtes. Alléluia, alléluia.
 V. Us obtiendront joie et exultation.
 R. Allelúia, allelúia.
 &Gloria
 R. Une allégresse éternelle sera sur leurs têtes. Alléluia, alléluia.
-_
-V. Elle a du prix au regard du Seigneur, alléluia.
-R. La mort de ses Saints, alléluia.
-
-[Versum 3]
-@:Versum 1
-
-[Ant Vespera 3]
-Vos saints, * Seigneur, fleuriront comme le lis, alléluia : et ils seront devant Vous comme un parfum de baume, alléluia.;;109
-Dans les royaumes célestes * est l'habitation des saints, alléluia : et leur repos est pour l'éternité, alléluia.;;112
-Dans le sanctuaire * vos saints clamaient, Seigneur, alléluia, alléluia, alléluia.;;115
-Esprits et âmes * des justes, chantez un hymne à notre Dieu, alléluia, alléluia.;;125
-Les justes resplendiront * comme le soleil devant la face de Dieu, alléluia.;;138
 
 [Ant 3]
 Saints et justes, * réjouissez-vous dans le Seigneur, alléluia. Dieu vous a choisis pour son héritage, alléluia.

@@ -2,14 +2,10 @@
 Św. Bonawentury Biskupa Wyznawcy i Doktora Kościoła;;Duplex;;3;;vide C4a
 
 [Rank] (rubrica 1570)
-Św. Bonawentury Biskupa Wyznawcy i Doktora Kościoła;;Semiduplex;;2;;vide C4a
+Św. Bonawentury Biskupa Wyznawcy;;Duplex;;3;;vide C4
 
 [Name]
 Bonawenturo
-
-[Rule]
-vide C4a;mtv
-9 lectiones
 
 [Oratio]
 @Commune/C4a:Oratio2:s/N\./Bonawenturę/
